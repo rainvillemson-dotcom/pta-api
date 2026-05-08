@@ -1,0 +1,108 @@
+openapi: 3.1.0
+info:
+  title: Eesti Taimekaitsevahendite Register API
+  version: 2.0.0
+servers:
+  - url: https://YOUR-PROJECT.vercel.app
+paths:
+  /api/search:
+    get:
+      operationId: searchProducts
+      summary: Otsi taimekaitsevahendeid
+      parameters:
+        - { name: q, in: query, schema: { type: string } }
+        - { name: kultuur, in: query, schema: { type: string } }
+        - { name: kahjustaja, in: query, schema: { type: string } }
+        - { name: toimeaine, in: query, schema: { type: string } }
+        - { name: liik, in: query, schema: { type: string } }
+        - { name: limit, in: query, schema: { type: integer, default: 20 } }
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  total: { type: integer }
+                  returned: { type: integer }
+                  results: { type: array, items: { $ref: '#/components/schemas/Product' } }
+  /api/validate:
+    post:
+      operationId: validatePlan
+      summary: Kontrolli taimekaitse plaani
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [kultuur, tooted]
+              properties:
+                kultuur: { type: string, example: nisu }
+                tooted:
+                  type: array
+                  items:
+                    type: object
+                    required: [nimetus]
+                    properties:
+                      nimetus: { type: string }
+                      kultuur: { type: string }
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  kultuur: { type: string }
+                  kokkuvote:
+                    type: object
+                    properties:
+                      tooted_kokku: { type: integer }
+                      sobivad: { type: integer }
+                      probleemiga: { type: integer }
+                  tulemused: { type: array, items: { $ref: '#/components/schemas/ValidationResult' } }
+components:
+  schemas:
+    Product:
+      type: object
+      properties:
+        nimetus: { type: string }
+        toimeaine: { type: string }
+        kultuur: { type: string }
+        kahjustaja: { type: string }
+        registreerimisnr: { type: string }
+        liik: { type: string }
+        annus: { type: string }
+        ooteaeg: { type: string }
+        kehtib_kuni: { type: string }
+        markused: { type: string }
+    ValidationResult:
+      type: object
+      properties:
+        nimetus: { type: string }
+        kultuur: { type: string }
+        registris: { type: boolean }
+        sobiv_kultuurile: { type: boolean }
+        registreerimisnr: { type: string }
+        toimeaine: { type: string }
+        liik: { type: string }
+        annus: { type: string }
+        ooteaeg: { type: string }
+        kehtib_kuni: { type: string }
+        ksm:
+          type: object
+          properties:
+            spe3_puhvertsoon: { type: string }
+            mesilaste_oht: { type: boolean }
+            bee_hazard_klass: { type: string }
+            groundwater_risk: { type: string }
+            max_kordused: { type: string }
+            veekaitse: { type: boolean }
+            dt50_soil_days: { type: number }
+            markused: { type: string }
+        probleemid:
+          type: array
+          items: { type: string }

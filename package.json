@@ -1,0 +1,16 @@
+{
+  "name": "pta-api",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "papaparse": "^5.4.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@vercel/node": "^3",
+    "typescript": "^5"
+  }
+}
