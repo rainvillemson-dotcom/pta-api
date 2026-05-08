@@ -3,7 +3,7 @@ info:
   title: Eesti Taimekaitsevahendite Register API
   version: 2.0.0
 servers:
-  - url: https://YOUR-PROJECT.vercel.app
+  - url: https://pta-api-xi.vercel.app
 paths:
   /api/search:
     get:
