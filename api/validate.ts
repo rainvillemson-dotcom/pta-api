@@ -88,7 +88,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
         const olemasolevad = (best._kasutusalad || []).slice(0, 5).map((k: any) => k.kultuur).join(', ')
         probleemid.push(`Ei leitud luba kultuuril "${searchCrop}". Registreeritud kasutusalad: ${olemasolevad || '?'}`)
       }
-      if (validTo && new Date(validTo) < new Date()) probleemid.push(`Luba aegunud: ${validTo}`)
+      // kehtib_kuni from CSV is unreliable due to column shift — skip expiry check
 
       const piirangud = kasutusalaMatch?.piirangud || ''
       const bee_risk = /mesila|mesilane/i.test(piirangud)
