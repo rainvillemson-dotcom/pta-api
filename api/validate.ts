@@ -65,9 +65,9 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
 
       const matches = data.filter(row => {
         const regName = pick(row, FIELD_MAP.name).toLowerCase()
+        if (!regName) return false
         const searchWords = searchName.split(' ')
         return regName.includes(searchName) ||
-          searchName.includes(regName) ||
           searchWords.every((w: string) => regName.includes(w))
       })
 
