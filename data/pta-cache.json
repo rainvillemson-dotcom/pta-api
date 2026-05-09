@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T21:14:12.700Z",
+  "updated": "2026-05-09T21:13:27.174Z",
   "rows": [
     {
       "Taimekaitsevahendi ID": "513",
@@ -70,6 +70,9 @@
           "kordused": "1-4",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Raudfosfaat"
       ]
     },
     {
@@ -132,6 +135,9 @@
           "kordused": "1-4",
           "koht": "Kasvuhoone"
         }
+      ],
+      "_toimeained": [
+        "Raudfosfaat"
       ]
     },
     {
@@ -230,6 +236,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fenpikoksamiid"
       ]
     },
     {
@@ -255,7 +264,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "0.1 L",
@@ -280,7 +290,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "459",
@@ -351,6 +362,9 @@
           "kordused": "1-4",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Raudfosfaat"
       ]
     },
     {
@@ -431,6 +445,9 @@
           "kordused": "6",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Pelargoonhape"
       ]
     },
     {
@@ -456,7 +473,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "1 L ; 1",
@@ -481,7 +499,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00896",
@@ -525,6 +544,9 @@
           "kordused": "4",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Pelargoonhape"
       ]
     },
     {
@@ -605,6 +627,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Boskaliid"
       ]
     },
     {
@@ -739,6 +764,12 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Meksüülklokvintotseet",
+        "Pinoksadeen",
+        "Florasulaam",
+        "Fluroksüpüür"
       ]
     },
     {
@@ -864,6 +895,9 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Kloromekvaatkloriid"
       ]
     },
     {
@@ -926,6 +960,11 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Kvinmerak",
+        "Imasamoks",
+        "Aminopüraliid"
       ]
     },
     {
@@ -951,7 +990,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00880",
@@ -1049,6 +1089,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Kvisalofop-P-etüül"
       ]
     },
     {
@@ -1111,6 +1154,9 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Mesotrioon"
       ]
     },
     {
@@ -1173,6 +1219,9 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Mesotrioon"
       ]
     },
     {
@@ -1244,6 +1293,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Dimeteenamiid-P",
+        "Klomasoon"
       ]
     },
     {
@@ -1360,6 +1413,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Biksafeen",
+        "Fluopüraam"
       ]
     },
     {
@@ -1440,6 +1497,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Mefenpüür-dietüül",
+        "Fenoksaprop-P-etüül"
       ]
     },
     {
@@ -1511,6 +1572,9 @@
           "kordused": "1-4",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Raudfosfaat"
       ]
     },
     {
@@ -1573,6 +1637,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Florasulaam"
       ]
     },
     {
@@ -1617,6 +1684,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Giberelliinhape"
       ]
     },
     {
@@ -1787,6 +1857,10 @@
           "kordused": "3",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Tsüprodiniil",
+        "Fludioksoniil"
       ]
     },
     {
@@ -1912,6 +1986,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "2,4-D"
       ]
     },
     {
@@ -2037,6 +2114,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "2,4-D"
       ]
     },
     {
@@ -2117,6 +2197,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Asoksüstrobiin"
       ]
     },
     {
@@ -2142,7 +2225,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00922",
@@ -2222,6 +2306,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Asoksüstrobiin"
       ]
     },
     {
@@ -2247,7 +2334,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00876",
@@ -2354,6 +2442,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metasakloor"
       ]
     },
     {
@@ -2461,6 +2552,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Florasulaam"
       ]
     },
     {
@@ -2568,6 +2662,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Florasulaam"
       ]
     },
     {
@@ -2621,6 +2718,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Sulfosulfuroon"
       ]
     },
     {
@@ -2683,6 +2783,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Beflubutamiid"
       ]
     },
     {
@@ -2745,6 +2848,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metasakloor",
+        "Kvinmerak"
       ]
     },
     {
@@ -2861,6 +2968,9 @@
           "kordused": "4",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Raudfosfaat"
       ]
     },
     {
@@ -2886,7 +2996,8 @@
       "Pakendi suurus": "1",
       "Vabamüügis olevad pakendid": "7kg 1",
       "EL kombineeritud nomenklatuur": "8kg",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00919",
@@ -2930,6 +3041,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metasakloor"
       ]
     },
     {
@@ -3136,6 +3250,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Kvisalofop-P-etüül"
       ]
     },
     {
@@ -3161,7 +3278,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "0",
@@ -3186,7 +3304,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "5; 10 L HDPE/PA kanister/paak;",
@@ -3211,7 +3330,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "0",
@@ -3236,7 +3356,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "5; 6; 10 L HDPE/F kanister.",
@@ -3261,7 +3382,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00904",
@@ -3332,6 +3454,9 @@
           "kordused": "1-4",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Raudfosfaat"
       ]
     },
     {
@@ -3357,7 +3482,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "5 kg",
@@ -3382,7 +3508,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00888",
@@ -3462,6 +3589,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Kloromekvaatkloriid"
       ]
     },
     {
@@ -3587,6 +3717,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Florasulaam"
       ]
     },
     {
@@ -3676,6 +3809,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Protiokonasool"
       ]
     },
     {
@@ -3720,6 +3856,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Boskaliid"
       ]
     },
     {
@@ -3764,6 +3903,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Boskaliid"
       ]
     },
     {
@@ -3916,6 +4058,9 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Aklonifeen"
       ]
     },
     {
@@ -4014,6 +4159,9 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Tebukonasool"
       ]
     },
     {
@@ -4112,6 +4260,9 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Tebukonasool"
       ]
     },
     {
@@ -4264,6 +4415,10 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Tebukonasool",
+        "Protiokonasool"
       ]
     },
     {
@@ -4344,6 +4499,9 @@
           "kordused": "1",
           "koht": "Siseruumid"
         }
+      ],
+      "_toimeained": [
+        "Alumiiniumfosfiid"
       ]
     },
     {
@@ -4379,6 +4537,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Püridaat"
       ]
     },
     {
@@ -4441,6 +4602,9 @@
           "kordused": "1-4",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metamitroon"
       ]
     },
     {
@@ -4566,6 +4730,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fludioksoniil"
       ]
     },
     {
@@ -4691,6 +4858,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fludioksoniil"
       ]
     },
     {
@@ -4762,6 +4932,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fludioksoniil",
+        "Sedaksaan"
       ]
     },
     {
@@ -4932,6 +5106,10 @@
           "kordused": "3",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fludioksoniil",
+        "Tsüprodiniil"
       ]
     },
     {
@@ -5039,6 +5217,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "MCPA"
       ]
     },
     {
@@ -5137,6 +5318,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Prosulfokarb"
       ]
     },
     {
@@ -5262,6 +5446,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fludioksoniil"
       ]
     },
     {
@@ -5657,6 +5844,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Atseetamipriid"
       ]
     },
     {
@@ -5773,6 +5963,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Kvisalofop-P-etüül"
       ]
     },
     {
@@ -5798,7 +5991,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "435",
@@ -5869,6 +6063,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Kvisalofop-P-etüül"
       ]
     },
     {
@@ -5940,6 +6137,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Kvisalofop-P-etüül"
       ]
     },
     {
@@ -6011,6 +6211,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Kvisalofop-P-etüül"
       ]
     },
     {
@@ -6190,6 +6393,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Tebukonasool"
       ]
     },
     {
@@ -6225,6 +6431,10 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Mesotrioon",
+        "Püridaat"
       ]
     },
     {
@@ -6250,7 +6460,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "15 L HDPE-F kanister",
@@ -6275,7 +6486,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "610",
@@ -6310,6 +6522,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Dikamba"
       ]
     },
     {
@@ -6363,6 +6578,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Difenokonasool"
       ]
     },
     {
@@ -6425,6 +6643,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Aklonifeen",
+        "Diflufenikaan"
       ]
     },
     {
@@ -6550,6 +6772,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "2,4-D"
       ]
     },
     {
@@ -6585,6 +6810,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Nikosulfuroon"
       ]
     },
     {
@@ -6620,6 +6848,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Nikosulfuroon"
       ]
     },
     {
@@ -6655,6 +6886,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Nikosulfuroon"
       ]
     },
     {
@@ -6690,6 +6924,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Nikosulfuroon"
       ]
     },
     {
@@ -6824,6 +7061,10 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Boskaliid",
+        "Püraklostrobiin"
       ]
     },
     {
@@ -7012,6 +7253,9 @@
           "kordused": "4",
           "koht": "Kasvuhoone"
         }
+      ],
+      "_toimeained": [
+        "Raudfosfaat"
       ]
     },
     {
@@ -7047,6 +7291,9 @@
           "kordused": "8",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fluasinaam"
       ]
     },
     {
@@ -7100,6 +7347,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Mepikvaatkloriid",
+        "Metkonasool"
       ]
     },
     {
@@ -7270,6 +7521,9 @@
           "kordused": "1-3",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metamitroon"
       ]
     },
     {
@@ -7350,6 +7604,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metüülmetsulfuroon"
       ]
     },
     {
@@ -7448,6 +7705,11 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Biksafeen",
+        "Spiroksamiin",
+        "Trifloksüstrobiin"
       ]
     },
     {
@@ -7473,7 +7735,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "418",
@@ -7598,6 +7861,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "2,4-D"
       ]
     },
     {
@@ -7623,7 +7889,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "BD12 9EJ",
@@ -7648,7 +7915,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "574",
@@ -7998,6 +8266,9 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metaldehüüd"
       ]
     },
     {
@@ -8366,6 +8637,9 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metaldehüüd"
       ]
     },
     {
@@ -8491,6 +8765,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metaldehüüd"
       ]
     },
     {
@@ -8616,6 +8893,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metaldehüüd"
       ]
     },
     {
@@ -8741,6 +9021,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metaldehüüd"
       ]
     },
     {
@@ -8866,6 +9149,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metaldehüüd"
       ]
     },
     {
@@ -9135,6 +9421,10 @@
           "kordused": "3",
           "koht": "Kasvuhoone"
         }
+      ],
+      "_toimeained": [
+        "Boskaliid",
+        "Püraklostrobiin"
       ]
     },
     {
@@ -9494,6 +9784,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Kvisalofop-P-etüül"
       ]
     },
     {
@@ -9538,6 +9831,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metasakloor"
       ]
     },
     {
@@ -9645,6 +9941,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metasakloor"
       ]
     },
     {
@@ -9689,6 +9988,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metasakloor",
+        "Klomasoon"
       ]
     },
     {
@@ -9733,6 +10036,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metkonasool",
+        "Boskaliid"
       ]
     },
     {
@@ -9840,6 +10147,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metasakloor"
       ]
     },
     {
@@ -9956,6 +10266,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metasakloor"
       ]
     },
     {
@@ -10045,6 +10358,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Protiokonasool"
       ]
     },
     {
@@ -10134,6 +10450,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Protiokonasool"
       ]
     },
     {
@@ -10223,6 +10542,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Protiokonasool"
       ]
     },
     {
@@ -10258,6 +10580,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "6-bensüüladeniin"
       ]
     },
     {
@@ -10410,6 +10735,10 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Tebukonasool",
+        "Protiokonasool"
       ]
     },
     {
@@ -10508,6 +10837,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Protiokonasool",
+        "Tebukonasool"
       ]
     },
     {
@@ -10642,6 +10975,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Tebukonasool"
       ]
     },
     {
@@ -10731,6 +11067,11 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Protiokonasool",
+        "Fludioksoniil",
+        "Tebukonasool"
       ]
     },
     {
@@ -10766,6 +11107,9 @@
           "kordused": "1",
           "koht": "Siseruumid"
         }
+      ],
+      "_toimeained": [
+        "Etüleen"
       ]
     },
     {
@@ -10945,6 +11289,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Tebukonasool"
       ]
     },
     {
@@ -11124,6 +11471,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Tebukonasool"
       ]
     },
     {
@@ -11186,6 +11536,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Tebukonasool"
       ]
     },
     {
@@ -11374,6 +11727,9 @@
           "kordused": "1",
           "koht": "Siseruumid"
         }
+      ],
+      "_toimeained": [
+        "Magneesiumfosfiid"
       ]
     },
     {
@@ -11436,6 +11792,9 @@
           "kordused": "",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Kaltsiumkarbiid"
       ]
     },
     {
@@ -11660,6 +12019,9 @@
           "kordused": "1",
           "koht": "Siseruumid"
         }
+      ],
+      "_toimeained": [
+        "Alumiiniumfosfiid"
       ]
     },
     {
@@ -11695,6 +12057,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Kvartsliiv"
       ]
     },
     {
@@ -11811,6 +12176,9 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Tebukonasool"
       ]
     },
     {
@@ -11909,6 +12277,9 @@
           "kordused": "3",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Tebukonasool"
       ]
     },
     {
@@ -11998,6 +12369,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fludioksoniil",
+        "Tebukonasool"
       ]
     },
     {
@@ -12033,6 +12408,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "(E,E)-8,10-dodekadieen-1-ool",
+        "(Z)-11-tetradetseen-1-üülatsetaat"
       ]
     },
     {
@@ -12122,6 +12501,11 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fludioksoniil",
+        "Sedaksaan",
+        "Tebukonasool"
       ]
     },
     {
@@ -12157,6 +12541,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Tebukonasool"
       ]
     },
     {
@@ -12192,6 +12579,9 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Raudsulfaat"
       ]
     },
     {
@@ -12290,6 +12680,9 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Mefentriflukonasool"
       ]
     },
     {
@@ -12315,7 +12708,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00885",
@@ -12359,6 +12753,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Pythium oligandrum tüvi M1"
       ]
     },
     {
@@ -12403,6 +12800,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Rimsulfuroon"
       ]
     },
     {
@@ -12447,6 +12847,10 @@
           "kordused": "6",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Kaaliumfosfonaadid",
+        "Ditianoon"
       ]
     },
     {
@@ -12545,6 +12949,10 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Biksafeen",
+        "Tebukonasool"
       ]
     },
     {
@@ -12670,6 +13078,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "2,4-D"
       ]
     },
     {
@@ -12849,6 +13260,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Florasulaam"
       ]
     },
     {
@@ -13028,6 +13442,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Florasulaam"
       ]
     },
     {
@@ -13090,6 +13507,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metasakloor",
+        "Kvinmerak"
       ]
     },
     {
@@ -13242,6 +13663,9 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Aklonifeen"
       ]
     },
     {
@@ -13304,6 +13728,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metasakloor",
+        "Kvinmerak"
       ]
     },
     {
@@ -13375,6 +13803,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Klomasoon"
       ]
     },
     {
@@ -13400,7 +13831,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00859",
@@ -13471,6 +13903,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Klomasoon"
       ]
     },
     {
@@ -13496,7 +13931,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00890",
@@ -13585,6 +14021,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metüültribenuroon"
       ]
     },
     {
@@ -13620,6 +14059,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "MCPB"
       ]
     },
     {
@@ -13754,6 +14196,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "MCPA"
       ]
     },
     {
@@ -13879,6 +14324,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "MCPA"
       ]
     },
     {
@@ -14004,6 +14452,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "MCPA"
       ]
     },
     {
@@ -14084,6 +14535,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Prosulfokarb"
       ]
     },
     {
@@ -14461,6 +14915,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Deltametriin"
       ]
     },
     {
@@ -14577,6 +15034,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "MCPA"
       ]
     },
     {
@@ -14602,7 +15062,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "Mumbai – 400 056 India",
@@ -14627,7 +15088,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "651",
@@ -14662,6 +15124,9 @@
           "kordused": "1",
           "koht": "Siseruumid"
         }
+      ],
+      "_toimeained": [
+        "Deltametriin"
       ]
     },
     {
@@ -15300,6 +15765,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Deltametriin"
       ]
     },
     {
@@ -15380,6 +15848,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Deltametriin"
       ]
     },
     {
@@ -16018,6 +16489,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Deltametriin"
       ]
     },
     {
@@ -16656,6 +17130,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Deltametriin"
       ]
     },
     {
@@ -16754,6 +17231,10 @@
           "kordused": "3",
           "koht": "Kasvuhoone"
         }
+      ],
+      "_toimeained": [
+        "Fluopikoliid",
+        "Propamokarbhüdrokloriid"
       ]
     },
     {
@@ -16852,6 +17333,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fluopikoliid",
+        "Fluoksastrobiin"
       ]
     },
     {
@@ -16887,6 +17372,9 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Protiokonasool"
       ]
     },
     {
@@ -16912,7 +17400,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00819",
@@ -17073,6 +17562,9 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Protiokonasool"
       ]
     },
     {
@@ -17234,6 +17726,9 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Protiokonasool"
       ]
     },
     {
@@ -17395,6 +17890,9 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Protiokonasool"
       ]
     },
     {
@@ -17556,6 +18054,9 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Protiokonasool"
       ]
     },
     {
@@ -17726,6 +18227,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Atseetamipriid"
       ]
     },
     {
@@ -17887,6 +18391,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Kvisalofop-P-tefurüül"
       ]
     },
     {
@@ -17912,7 +18419,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00854",
@@ -18073,6 +18581,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Kvisalofop-P-tefurüül"
       ]
     },
     {
@@ -18098,7 +18609,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00853",
@@ -18259,6 +18771,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Kvisalofop-P-tefurüül"
       ]
     },
     {
@@ -18284,7 +18799,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00891",
@@ -18364,6 +18880,9 @@
           "kordused": "4",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Pelargoonhape"
       ]
     },
     {
@@ -18389,7 +18908,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "1 L ; 1",
@@ -18414,7 +18934,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "100 mL ; 125 mL ; 250 mL ; 500 mL f-HDPE pudel",
@@ -18439,7 +18960,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "1 L ; 1",
@@ -18464,7 +18986,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00897",
@@ -18499,6 +19022,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Nikosulfuroon"
       ]
     },
     {
@@ -18579,6 +19105,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Etefoon"
       ]
     },
     {
@@ -18614,6 +19143,9 @@
           "kordused": "",
           "koht": "Siseruumid"
         }
+      ],
+      "_toimeained": [
+        "Metüülpirimifoss"
       ]
     },
     {
@@ -19306,6 +19838,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Propakvisafop"
       ]
     },
     {
@@ -19331,7 +19866,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "3) Adama Manufacturing Poland S.A.",
@@ -19356,7 +19892,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00683",
@@ -20048,6 +20585,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Propakvisafop"
       ]
     },
     {
@@ -20073,7 +20613,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "3)Adama Manufacturing Poland S.A.",
@@ -20098,7 +20639,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "170",
@@ -20178,6 +20720,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Kloromekvaatkloriid"
       ]
     },
     {
@@ -20258,6 +20803,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Kloromekvaatkloriid"
       ]
     },
     {
@@ -20464,6 +21012,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Kvisalofop-P-etüül"
       ]
     },
     {
@@ -21156,6 +21707,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Propakvisafop"
       ]
     },
     {
@@ -21362,6 +21916,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Kvisalofop-P-etüül"
       ]
     },
     {
@@ -21397,6 +21954,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Pelargoonhape"
       ]
     },
     {
@@ -21422,7 +21982,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "3) Torre Srl",
@@ -21447,7 +22008,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00894",
@@ -21545,6 +22107,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Protiokonasool",
+        "Fenpikoksamiid"
       ]
     },
     {
@@ -21570,7 +22136,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "603",
@@ -21668,6 +22235,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Etüültrineksapak",
+        "Proheksadioonkaltsium"
       ]
     },
     {
@@ -21739,6 +22310,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Diflufenikaan"
       ]
     },
     {
@@ -22197,6 +22771,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Penkonasool"
       ]
     },
     {
@@ -22241,6 +22818,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Dimetakloor"
       ]
     },
     {
@@ -22321,6 +22901,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Meksüülklokvintotseet",
+        "Fenoksaprop-P-etüül"
       ]
     },
     {
@@ -22365,6 +22949,9 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Püraflufeenetüül"
       ]
     },
     {
@@ -22463,6 +23050,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Dikamba"
       ]
     },
     {
@@ -22534,6 +23124,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Napropamiid"
       ]
     },
     {
@@ -22578,6 +23171,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Klomasoon",
+        "Dimetakloor"
       ]
     },
     {
@@ -22658,6 +23255,11 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Biksafeen",
+        "Fluoksastrobiin",
+        "Protiokonasool"
       ]
     },
     {
@@ -22747,6 +23349,11 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Prokinasiid",
+        "Protiokonasool",
+        "Spiroksamiin"
       ]
     },
     {
@@ -22854,6 +23461,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Amidosulfuroon"
       ]
     },
     {
@@ -22943,6 +23553,11 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Protiokonasool",
+        "Spiroksamiin",
+        "Tebukonasool"
       ]
     },
     {
@@ -23023,6 +23638,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fenoksaprop-P-etüül"
       ]
     },
     {
@@ -23112,6 +23730,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metüültribenuroon"
       ]
     },
     {
@@ -23156,6 +23777,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Bifenoks"
       ]
     },
     {
@@ -23236,6 +23860,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Spiroksamiin",
+        "Protiokonasool"
       ]
     },
     {
@@ -23280,6 +23908,9 @@
           "kordused": "5",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Difenokonasool"
       ]
     },
     {
@@ -23360,6 +23991,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fenoksaprop-P-etüül"
       ]
     },
     {
@@ -23440,6 +24074,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "P-butüülfluasifop"
       ]
     },
     {
@@ -23871,6 +24508,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "P-butüülfluasifop"
       ]
     },
     {
@@ -23906,6 +24546,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "1-naftüüläädikhape"
       ]
     },
     {
@@ -24364,6 +25007,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Penkonasool"
       ]
     },
     {
@@ -24444,6 +25090,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Prosulfokarb"
       ]
     },
     {
@@ -24506,6 +25155,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Aklonifeen",
+        "Klomasoon"
       ]
     },
     {
@@ -24559,6 +25212,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Aklonifeen",
+        "Klomasoon"
       ]
     },
     {
@@ -24594,6 +25251,9 @@
           "kordused": "1-4",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Oksatiapiproliin"
       ]
     },
     {
@@ -24619,7 +25279,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00782",
@@ -24735,6 +25396,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Karfentrasoon-etüül"
       ]
     },
     {
@@ -24860,6 +25524,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Diflufenikaan"
       ]
     },
     {
@@ -24958,6 +25625,10 @@
           "kordused": "3",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Protiokonasool",
+        "Fluopüraam"
       ]
     },
     {
@@ -25101,6 +25772,11 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Protiokonasool",
+        "Fluopüraam",
+        "Biksafeen"
       ]
     },
     {
@@ -25226,6 +25902,10 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Mefentriflukonasool",
+        "Püraklostrobiin"
       ]
     },
     {
@@ -25261,6 +25941,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Püraklostrobiin"
       ]
     },
     {
@@ -25286,7 +25969,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "1 L HDPE ökopudel",
@@ -25311,7 +25995,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "5 ; 10 L HDPE ökoanum",
@@ -25336,7 +26021,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "16",
@@ -25416,6 +26102,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Mekoprop-P"
       ]
     },
     {
@@ -25496,6 +26185,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Spiroksamiin",
+        "Protiokonasool"
       ]
     },
     {
@@ -26062,6 +26755,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Tsükloksüdiim"
       ]
     },
     {
@@ -26097,6 +26793,9 @@
           "kordused": "10",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fluasinaam"
       ]
     },
     {
@@ -26168,6 +26867,10 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Tebukonasool",
+        "Protiokonasool"
       ]
     },
     {
@@ -26203,6 +26906,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Verticillium albo-atrum tüvi WCS850"
       ]
     },
     {
@@ -26517,6 +27223,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Kvisalofop-P-etüül"
       ]
     },
     {
@@ -26542,7 +27251,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "- 10 L ja 20 L plastkanister (HDPE-PA",
@@ -26567,7 +27277,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00900",
@@ -26665,6 +27376,11 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Protiokonasool",
+        "Spiroksamiin",
+        "Trifloksüstrobiin"
       ]
     },
     {
@@ -26745,6 +27461,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metüülmetsulfuroon",
+        "Diflufenikaan"
       ]
     },
     {
@@ -26807,6 +27527,11 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Mekoprop-P",
+        "MCPA",
+        "Dikloroprop-P"
       ]
     },
     {
@@ -26878,6 +27603,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "MCPA",
+        "Dikamba"
       ]
     },
     {
@@ -26958,6 +27687,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "MCPA"
       ]
     },
     {
@@ -27074,6 +27806,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "MCPA"
       ]
     },
     {
@@ -27154,6 +27889,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Prosulfokarb"
       ]
     },
     {
@@ -27306,6 +28044,9 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Tebukonasool"
       ]
     },
     {
@@ -27440,6 +28181,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Tebukonasool"
       ]
     },
     {
@@ -27592,6 +28336,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Tebukonasool"
       ]
     },
     {
@@ -27744,6 +28491,9 @@
           "kordused": "",
           "koht": "Kasvuhoone"
         }
+      ],
+      "_toimeained": [
+        "Bensoehape"
       ]
     },
     {
@@ -27815,6 +28565,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Püraklostrobiin"
       ]
     },
     {
@@ -27877,6 +28630,11 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Meksüülklokvintotseet",
+        "Pinoksadeen",
+        "Pürokssulaam"
       ]
     },
     {
@@ -27966,6 +28724,11 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Meksüülklokvintotseet",
+        "Pinoksadeen",
+        "Florasulaam"
       ]
     },
     {
@@ -27991,7 +28754,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00883",
@@ -28062,6 +28826,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Boskaliid",
+        "Mefentriflukonasool"
       ]
     },
     {
@@ -28087,7 +28855,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00712",
@@ -28167,6 +28936,9 @@
           "kordused": "1",
           "koht": "Siseruumid"
         }
+      ],
+      "_toimeained": [
+        "Alumiiniumfosfiid"
       ]
     },
     {
@@ -28508,6 +29280,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Kletodiim"
       ]
     },
     {
@@ -28849,6 +29624,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Kletodiim"
       ]
     },
     {
@@ -29019,6 +29797,11 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Püraklostrobiin",
+        "Proheksadioonkaltsium",
+        "Mepikvaatkloriid"
       ]
     },
     {
@@ -29044,7 +29827,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00907",
@@ -29088,6 +29872,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Mepikvaatkloriid"
       ]
     },
     {
@@ -29132,6 +29919,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Mepikvaatkloriid"
       ]
     },
     {
@@ -29482,6 +30272,9 @@
           "kordused": "1-2",
           "koht": "Kasvuhoone"
         }
+      ],
+      "_toimeained": [
+        "Atseetamipriid"
       ]
     },
     {
@@ -29507,7 +30300,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "200 g – 1000 g HDPE pudelid",
@@ -29532,7 +30326,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "500 g PET pudelid",
@@ -29557,7 +30352,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "3 kg foil bag (polüpropüleen-alumiinium-polüetüleen)",
@@ -29582,7 +30378,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "1 kg – 5 kg HDPE purgid",
@@ -29607,7 +30404,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "1 kg HDPE purgid",
@@ -29632,7 +30430,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "434",
@@ -29721,6 +30520,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metüültribenuroon"
       ]
     },
     {
@@ -29846,6 +30648,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Diflufenikaan",
+        "Florasulaam"
       ]
     },
     {
@@ -30088,6 +30894,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Klorantraniliprool"
       ]
     },
     {
@@ -30195,6 +31004,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "2,4-D"
       ]
     },
     {
@@ -30401,6 +31213,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Lambda-tsühalotriin"
       ]
     },
     {
@@ -30472,6 +31287,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Florasulaam",
+        "2,4-D"
       ]
     },
     {
@@ -30561,6 +31380,11 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Meksüülklokvintotseet",
+        "Florasulaam",
+        "Pürokssulaam"
       ]
     },
     {
@@ -30596,6 +31420,9 @@
           "kordused": "4",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Amisulbroom"
       ]
     },
     {
@@ -30631,6 +31458,9 @@
           "kordused": "4",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Amisulbroom"
       ]
     },
     {
@@ -30656,7 +31486,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "France",
@@ -30681,7 +31512,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00687",
@@ -30743,6 +31575,12 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metüüljodosulfuroon-naatrium",
+        "2,4-D 2-EHE",
+        "Metüültieenkarbasoon",
+        "Mefenpüür-dietüül"
       ]
     },
     {
@@ -30841,6 +31679,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Prosulfokarb"
       ]
     },
     {
@@ -31335,6 +32176,9 @@
           "kordused": "5",
           "koht": "Kasvuhoone"
         }
+      ],
+      "_toimeained": [
+        "Clonostachys rosea J1446"
       ]
     },
     {
@@ -31433,6 +32277,11 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fludioksoniil",
+        "Sedaksaan",
+        "Tritikonasool"
       ]
     },
     {
@@ -31531,6 +32380,11 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Tritikonasool",
+        "Fludioksoniil",
+        "Sedaksaan"
       ]
     },
     {
@@ -31647,6 +32501,10 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Meksüülklokvintotseet",
+        "Metüülhalauksifeen"
       ]
     },
     {
@@ -31727,6 +32585,11 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fluroksüpüür",
+        "Meksüülklokvintotseet",
+        "Metüülhalauksifeen"
       ]
     },
     {
@@ -31816,6 +32679,11 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Florasulaam",
+        "Meksüülklokvintotseet",
+        "Metüülhalauksifeen"
       ]
     },
     {
@@ -31905,6 +32773,11 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Meksüülklokvintotseet",
+        "Florasulaam",
+        "Metüülhalauksifeen"
       ]
     },
     {
@@ -31994,6 +32867,11 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metüülhalauksifeen",
+        "Florasulaam",
+        "Meksüülklokvintotseet"
       ]
     },
     {
@@ -32038,6 +32916,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Kvinmerak",
+        "Metasakloor"
       ]
     },
     {
@@ -32100,6 +32982,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Kvinmerak",
+        "Metasakloor"
       ]
     },
     {
@@ -32216,6 +33102,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metkonasool"
       ]
     },
     {
@@ -32278,6 +33167,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Dimeteenamiid-P",
+        "Metasakloor"
       ]
     },
     {
@@ -32322,6 +33215,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Dimeteenamiid-P",
+        "Kvinmerak"
       ]
     },
     {
@@ -32456,6 +33353,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Pendimetaliin"
       ]
     },
     {
@@ -32500,6 +33400,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Kvinmerak",
+        "Dimeteenamiid-P"
       ]
     },
     {
@@ -32544,6 +33448,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metasakloor",
+        "Kvinmerak"
       ]
     },
     {
@@ -32588,6 +33496,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metasakloor",
+        "Kvinmerak"
       ]
     },
     {
@@ -32758,6 +33670,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Pendimetaliin"
       ]
     },
     {
@@ -32847,6 +33762,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Bensovindiflupüür"
       ]
     },
     {
@@ -32936,6 +33854,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Bensovindiflupüür"
       ]
     },
     {
@@ -32971,6 +33892,9 @@
           "kordused": "9",
           "koht": "Siseruumid"
         }
+      ],
+      "_toimeained": [
+        "Apelsiniõli"
       ]
     },
     {
@@ -32996,7 +33920,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "495",
@@ -33049,6 +33974,9 @@
           "kordused": "4",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Lambarasv"
       ]
     },
     {
@@ -33111,6 +34039,9 @@
           "kordused": "4",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Lambarasv"
       ]
     },
     {
@@ -33155,6 +34086,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Verejahu"
       ]
     },
     {
@@ -33199,6 +34133,9 @@
           "kordused": "1-3",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Ditianoon"
       ]
     },
     {
@@ -33243,6 +34180,9 @@
           "kordused": "1-3",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Ditianoon"
       ]
     },
     {
@@ -33593,6 +34533,9 @@
           "kordused": "4",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Asadirahtiin A"
       ]
     },
     {
@@ -33682,6 +34625,10 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Biksafeen",
+        "Protiokonasool"
       ]
     },
     {
@@ -33771,6 +34718,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Protiokonasool"
       ]
     },
     {
@@ -33860,6 +34810,10 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Biksafeen",
+        "Protiokonasool"
       ]
     },
     {
@@ -33958,6 +34912,10 @@
           "kordused": "3",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Protiokonasool",
+        "Fluopüraam"
       ]
     },
     {
@@ -34056,6 +35014,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Prosulfokarb"
       ]
     },
     {
@@ -34100,6 +35061,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Atseetamipriid"
       ]
     },
     {
@@ -34171,6 +35135,9 @@
           "kordused": "1-4",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Raudfosfaat"
       ]
     },
     {
@@ -34215,6 +35182,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metüülhalauksifeen",
+        "Pikloraam"
       ]
     },
     {
@@ -34250,6 +35221,9 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Mesotrioon"
       ]
     },
     {
@@ -34285,6 +35259,9 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Proheksadioonkaltsium"
       ]
     },
     {
@@ -34320,6 +35297,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Mesotrioon"
       ]
     },
     {
@@ -34355,6 +35335,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Kvartsliiv"
       ]
     },
     {
@@ -34453,6 +35436,11 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "MCPA",
+        "Klopüraliid",
+        "Fluroksüpüür"
       ]
     },
     {
@@ -34551,6 +35539,11 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "MCPA",
+        "Klopüraliid",
+        "Fluroksüpüür"
       ]
     },
     {
@@ -34586,6 +35579,9 @@
           "kordused": "1",
           "koht": "Siseruumid"
         }
+      ],
+      "_toimeained": [
+        "1-metüültsüklopropeen"
       ]
     },
     {
@@ -34657,6 +35653,9 @@
           "kordused": "1",
           "koht": "Siseruumid"
         }
+      ],
+      "_toimeained": [
+        "Magneesiumfosfiid"
       ]
     },
     {
@@ -34728,6 +35727,9 @@
           "kordused": "1",
           "koht": "Siseruumid"
         }
+      ],
+      "_toimeained": [
+        "Magneesiumfosfiid"
       ]
     },
     {
@@ -35006,6 +36008,10 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Püraklostrobiin",
+        "Boskaliid"
       ]
     },
     {
@@ -35167,6 +36173,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Aklonifeen"
       ]
     },
     {
@@ -35391,6 +36400,9 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Püridaat"
       ]
     },
     {
@@ -35426,6 +36438,12 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metüüljodosulfuroon-naatrium",
+        "Metüültieenkarbasoon",
+        "Foraamsulfuroon-naatrium",
+        "Tsüprosulfamiid"
       ]
     },
     {
@@ -35461,6 +36479,11 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "etüülisoksadifeen",
+        "Metüüljodosulfuroon-naatrium",
+        "Foraamsulfuroon"
       ]
     },
     {
@@ -35496,6 +36519,9 @@
           "kordused": "1",
           "koht": "Siseruumid"
         }
+      ],
+      "_toimeained": [
+        "Deltametriin"
       ]
     },
     {
@@ -35521,7 +36547,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00843",
@@ -35619,6 +36646,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Prosulfokarb"
       ]
     },
     {
@@ -35663,6 +36693,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metasakloor"
       ]
     },
     {
@@ -35707,6 +36740,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metasakloor"
       ]
     },
     {
@@ -35796,6 +36832,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metüültribenuroon"
       ]
     },
     {
@@ -36110,6 +37149,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Tsüpermetriin"
       ]
     },
     {
@@ -36424,6 +37466,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Tsüpermetriin"
       ]
     },
     {
@@ -36738,6 +37783,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Tsüpermetriin"
       ]
     },
     {
@@ -37007,6 +38055,9 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Tau-fluvalinaat"
       ]
     },
     {
@@ -37141,6 +38192,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Protiokonasool"
       ]
     },
     {
@@ -37203,6 +38257,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Maleiinhüdrasiid"
       ]
     },
     {
@@ -37228,7 +38285,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "200; 300; 600; 1000 L HDPE mahuti",
@@ -37253,7 +38311,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00803",
@@ -37315,6 +38374,11 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metüülmesosulfuroon",
+        "Metüültieenkarbasoon",
+        "Mefenpüür-dietüül"
       ]
     },
     {
@@ -37340,7 +38404,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "Saksamaa",
@@ -37365,7 +38430,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00952",
@@ -37544,6 +38610,9 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Protiokonasool"
       ]
     },
     {
@@ -37975,6 +39044,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "P-butüülfluasifop"
       ]
     },
     {
@@ -38055,6 +39127,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Diflufenikaan"
       ]
     },
     {
@@ -38180,6 +39255,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Diflufenikaan",
+        "Florasulaam"
       ]
     },
     {
@@ -38233,6 +39312,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Etefoon"
       ]
     },
     {
@@ -38286,6 +39368,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Etefoon"
       ]
     },
     {
@@ -38366,6 +39451,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Etefoon"
       ]
     },
     {
@@ -38410,6 +39498,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Kaptaan"
       ]
     },
     {
@@ -38571,6 +39662,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fluroksüpüür"
       ]
     },
     {
@@ -38723,6 +39817,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Glüfosaat"
       ]
     },
     {
@@ -38812,6 +39909,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Etüültrineksapak"
       ]
     },
     {
@@ -38973,6 +40073,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Glüfosaat"
       ]
     },
     {
@@ -39062,6 +40165,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Glüfosaat",
+        "2,4-D"
       ]
     },
     {
@@ -39196,6 +40303,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Glüfosaat"
       ]
     },
     {
@@ -39285,6 +40395,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "2,4-D",
+        "Florasulaam"
       ]
     },
     {
@@ -39392,6 +40506,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Glüfosaat"
       ]
     },
     {
@@ -39481,6 +40598,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Glüfosaat"
       ]
     },
     {
@@ -39506,7 +40626,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00805",
@@ -39595,6 +40716,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Glüfosaat"
       ]
     },
     {
@@ -39693,6 +40817,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Glüfosaat"
       ]
     },
     {
@@ -39782,6 +40909,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Glüfosaat"
       ]
     },
     {
@@ -39807,7 +40937,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "345",
@@ -39896,6 +41027,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Glüfosaat"
       ]
     },
     {
@@ -39921,7 +41055,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "601",
@@ -40010,6 +41145,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Glüfosaat"
       ]
     },
     {
@@ -40035,7 +41173,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00870",
@@ -40232,6 +41371,9 @@
           "kordused": "1-3",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Glüfosaat"
       ]
     },
     {
@@ -40257,7 +41399,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "578",
@@ -40427,6 +41570,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Glüfosaat"
       ]
     },
     {
@@ -40507,6 +41653,11 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Mefenpüür-dietüül",
+        "Amidosulfuroon",
+        "Metüüljodosulfuroon-naatrium"
       ]
     },
     {
@@ -40650,6 +41801,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Glüfosaat"
       ]
     },
     {
@@ -40675,7 +41829,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00886",
@@ -40845,6 +42000,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Glüfosaat"
       ]
     },
     {
@@ -40997,6 +42155,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Glüfosaat"
       ]
     },
     {
@@ -41149,6 +42310,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Glüfosaat"
       ]
     },
     {
@@ -41301,6 +42465,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Glüfosaat"
       ]
     },
     {
@@ -41453,6 +42620,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Glüfosaat"
       ]
     },
     {
@@ -41560,6 +42730,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Pikloraam",
+        "Klopüraliid"
       ]
     },
     {
@@ -41613,6 +42787,9 @@
           "kordused": "1-4",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Pelargoonhape"
       ]
     },
     {
@@ -41638,7 +42815,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "100 ml \t PET pudel",
@@ -41663,7 +42841,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "100 ml \t HDPE pudel",
@@ -41688,7 +42867,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "100 ml\t f HDPE pudel",
@@ -41713,7 +42893,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "125ml       HDPE pudel",
@@ -41738,7 +42919,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "125ml       f HDPE pudel",
@@ -41763,7 +42945,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "250 ml \t HDPE pudel",
@@ -41788,7 +42971,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "250 ml\t f HDPE pudel",
@@ -41813,7 +42997,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "250ml       HDPE pudel",
@@ -41838,7 +43023,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "500 ml      PET pudel",
@@ -41863,7 +43049,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "500 ml \t HDPE pudel",
@@ -41888,7 +43075,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "500 ml\t fHDPE pudel",
@@ -41913,7 +43101,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "500ml       HDPE pudel",
@@ -41938,7 +43127,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "1000ml     PET pudel",
@@ -41963,7 +43153,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "1000ml     HDPE pudel",
@@ -41988,7 +43179,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "1 L \t         HDPE pudel",
@@ -42013,7 +43205,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "1 L\t         f HDPE pudel",
@@ -42038,7 +43231,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00758",
@@ -42118,6 +43312,9 @@
           "kordused": "5",
           "koht": "Kasvuhoone"
         }
+      ],
+      "_toimeained": [
+        "Rasvhapete (C14-C20) kaaliumsoolad"
       ]
     },
     {
@@ -42252,6 +43449,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fluroksüpüür"
       ]
     },
     {
@@ -42359,6 +43559,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Florasulaam",
+        "Fluroksüpüür"
       ]
     },
     {
@@ -42384,7 +43588,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "676",
@@ -42482,6 +43687,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Asoksüstrobiin"
       ]
     },
     {
@@ -42562,6 +43770,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fluroksüpüür",
+        "Florasulaam"
       ]
     },
     {
@@ -42587,7 +43799,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "650",
@@ -42694,6 +43907,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Etüültrineksapak"
       ]
     },
     {
@@ -42792,6 +44008,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Etüültrineksapak"
       ]
     },
     {
@@ -42890,6 +44109,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Etüültrineksapak"
       ]
     },
     {
@@ -42979,6 +44201,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Etüültrineksapak"
       ]
     },
     {
@@ -43068,6 +44293,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Etüültrineksapak"
       ]
     },
     {
@@ -43139,6 +44367,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Glüfosaat"
       ]
     },
     {
@@ -43164,7 +44395,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "200L HDPE tünn",
@@ -43189,7 +44421,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "337",
@@ -43323,6 +44556,9 @@
           "kordused": "1",
           "koht": "Kasvuhoone"
         }
+      ],
+      "_toimeained": [
+        "Metrafenoon"
       ]
     },
     {
@@ -43421,6 +44657,11 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Mefentriflukonasool",
+        "Metrafenoon",
+        "Püraklostrobiin"
       ]
     },
     {
@@ -43446,7 +44687,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00797",
@@ -43670,6 +44912,9 @@
           "kordused": "1",
           "koht": "Kasvuhoone"
         }
+      ],
+      "_toimeained": [
+        "Metüülkresoksiim"
       ]
     },
     {
@@ -43695,7 +44940,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "214",
@@ -44117,6 +45363,9 @@
           "kordused": "1",
           "koht": "Kasvuhoone"
         }
+      ],
+      "_toimeained": [
+        "Asoksüstrobiin"
       ]
     },
     {
@@ -44467,6 +45716,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Asoksüstrobiin"
       ]
     },
     {
@@ -44889,6 +46141,9 @@
           "kordused": "1",
           "koht": "Kasvuhoone"
         }
+      ],
+      "_toimeained": [
+        "Asoksüstrobiin"
       ]
     },
     {
@@ -44996,6 +46251,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Etüültrineksapak"
       ]
     },
     {
@@ -45094,6 +46352,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Etüültrineksapak"
       ]
     },
     {
@@ -45192,6 +46453,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Etüültrineksapak"
       ]
     },
     {
@@ -45290,6 +46554,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Etüültrineksapak"
       ]
     },
     {
@@ -45397,6 +46664,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Etüültrineksapak"
       ]
     },
     {
@@ -45792,6 +47062,9 @@
           "kordused": "1-2",
           "koht": "Kasvuhoone"
         }
+      ],
+      "_toimeained": [
+        "Tau-fluvalinaat"
       ]
     },
     {
@@ -45899,6 +47172,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Amidosulfuroon"
       ]
     },
     {
@@ -45961,6 +47237,11 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Florasulaam",
+        "Aminopüraliid",
+        "Pürokssulaam"
       ]
     },
     {
@@ -46050,6 +47331,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Aminopüraliid",
+        "Florasulaam"
       ]
     },
     {
@@ -46193,6 +47478,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Protiokonasool"
       ]
     },
     {
@@ -46218,7 +47506,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00911",
@@ -46856,6 +48145,9 @@
           "kordused": "1-4",
           "koht": "Kasvuhoone"
         }
+      ],
+      "_toimeained": [
+        "Tsüantraniliprool"
       ]
     },
     {
@@ -46918,6 +48210,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Difenokonasool"
       ]
     },
     {
@@ -46971,6 +48266,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Difenokonasool",
+        "Asoksüstrobiin"
       ]
     },
     {
@@ -47024,6 +48323,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Difenokonasool",
+        "Asoksüstrobiin"
       ]
     },
     {
@@ -47113,6 +48416,11 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Difenokonasool",
+        "Fludioksoniil",
+        "Tebukonasool"
       ]
     },
     {
@@ -47184,6 +48492,10 @@
           "kordused": "2",
           "koht": "Kasvuhoone"
         }
+      ],
+      "_toimeained": [
+        "Tsüflufenamiid",
+        "Difenokonasool"
       ]
     },
     {
@@ -47273,6 +48585,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fludioksoniil",
+        "Difenokonasool"
       ]
     },
     {
@@ -47326,6 +48642,10 @@
           "kordused": "3",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Mandipropamiid",
+        "Difenokonasool"
       ]
     },
     {
@@ -47370,6 +48690,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Paklobutrasool",
+        "Difenokonasool"
       ]
     },
     {
@@ -47432,6 +48756,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Difenokonasool"
       ]
     },
     {
@@ -47530,6 +48857,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Asoksüstrobiin"
       ]
     },
     {
@@ -47619,6 +48949,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fluroksüpüür",
+        "Metüültiofeensulfuroon"
       ]
     },
     {
@@ -47644,7 +48978,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00700",
@@ -47742,6 +49077,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Asoksüstrobiin"
       ]
     },
     {
@@ -47777,6 +49115,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metobromuroon"
       ]
     },
     {
@@ -47839,6 +49180,11 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metasakloor",
+        "Aminopüraliid",
+        "Pikloraam"
       ]
     },
     {
@@ -47928,6 +49274,11 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "2,4-D",
+        "Aminopüraliid",
+        "Florasulaam"
       ]
     },
     {
@@ -48026,6 +49377,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Florasulaam",
+        "Fluroksüpüür"
       ]
     },
     {
@@ -48124,6 +49479,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fluroksüpüür"
       ]
     },
     {
@@ -48222,6 +49580,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fluroksüpüür"
       ]
     },
     {
@@ -48338,6 +49699,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fluroksüpüür",
+        "Florasulaam"
       ]
     },
     {
@@ -48436,6 +49801,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fluroksüpüür"
       ]
     },
     {
@@ -48543,6 +49911,9 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Asoksüstrobiin"
       ]
     },
     {
@@ -48614,6 +49985,9 @@
           "kordused": "4",
           "koht": "Kasvuhoone"
         }
+      ],
+      "_toimeained": [
+        "Mandipropamiid"
       ]
     },
     {
@@ -48766,6 +50140,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fluroksüpüür"
       ]
     },
     {
@@ -48846,6 +50223,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Asoksüstrobiin"
       ]
     },
     {
@@ -48962,6 +50342,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Florasulaam",
+        "Fluroksüpüür"
       ]
     },
     {
@@ -49006,6 +50390,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Teflutriin"
       ]
     },
     {
@@ -49068,6 +50455,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Etüültrineksapak"
       ]
     },
     {
@@ -49211,6 +50601,9 @@
           "kordused": "6",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Tsüasofamiid"
       ]
     },
     {
@@ -49246,6 +50639,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fluopüraam",
+        "Tebukonasool"
       ]
     },
     {
@@ -49389,6 +50786,9 @@
           "kordused": "1-2",
           "koht": "Kasvuhoone"
         }
+      ],
+      "_toimeained": [
+        "Milbemektiin"
       ]
     },
     {
@@ -49414,7 +50814,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "199",
@@ -49476,6 +50877,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Propoksükarbasoon-naatrium"
       ]
     },
     {
@@ -49574,6 +50978,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fluroksüpüür",
+        "Florasulaam"
       ]
     },
     {
@@ -49672,6 +51080,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fluroksüpüür",
+        "Florasulaam"
       ]
     },
     {
@@ -49896,6 +51308,9 @@
           "kordused": "1-12",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Clonostachys rosea J1446"
       ]
     },
     {
@@ -50597,6 +52012,9 @@
           "kordused": "5",
           "koht": "Kasvuhoone"
         }
+      ],
+      "_toimeained": [
+        "COS-OGA"
       ]
     },
     {
@@ -50622,7 +52040,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00962",
@@ -50675,6 +52094,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Proheksadioonkaltsium"
       ]
     },
     {
@@ -50773,6 +52195,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Etüültrineksapak"
       ]
     },
     {
@@ -51987,6 +53412,9 @@
           "kordused": "1",
           "koht": "Kasvuhoone"
         }
+      ],
+      "_toimeained": [
+        "Clonostachys rosea J1446"
       ]
     },
     {
@@ -52067,6 +53495,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Spiroksamiin",
+        "Protiokonasool"
       ]
     },
     {
@@ -52183,6 +53615,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Protiokonasool",
+        "Fluksapüroksaad"
       ]
     },
     {
@@ -52208,7 +53644,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00696",
@@ -52306,6 +53743,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Etüültrineksapak"
       ]
     },
     {
@@ -52395,6 +53835,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metüültiofeensulfuroon",
+        "Metüülmetsulfuroon"
       ]
     },
     {
@@ -52420,7 +53864,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "305",
@@ -52464,6 +53909,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Boskaliid"
       ]
     },
     {
@@ -52508,6 +53956,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Paklobutrasool",
+        "Difenokonasool"
       ]
     },
     {
@@ -52831,6 +54283,10 @@
           "kordused": "1-2",
           "koht": "Kasvuhoone"
         }
+      ],
+      "_toimeained": [
+        "Fosetüül",
+        "Propamokarb"
       ]
     },
     {
@@ -52992,6 +54448,9 @@
           "kordused": "4",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Raudfosfaat"
       ]
     },
     {
@@ -53017,7 +54476,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00814",
@@ -53376,6 +54836,9 @@
           "kordused": "1-2",
           "koht": "Kasvuhoone"
         }
+      ],
+      "_toimeained": [
+        "Atseetamipriid"
       ]
     },
     {
@@ -53401,7 +54864,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "200 g – 1000 g HDPE pudelid",
@@ -53426,7 +54890,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "500 g PET pudelid",
@@ -53451,7 +54916,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "3 kg foil bag (polüpropüleen-alumiinium-polüetüleen)",
@@ -53476,7 +54942,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "1 kg – 5 kg HDPE purgid",
@@ -53501,7 +54968,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "1 kg HDPE purgid",
@@ -53526,7 +54994,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00944",
@@ -53669,6 +55138,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Prokinasiid",
+        "Protiokonasool"
       ]
     },
     {
@@ -53694,7 +55167,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00965",
@@ -53738,6 +55212,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Boskaliid"
       ]
     },
     {
@@ -53791,6 +55268,9 @@
           "kordused": "3",
           "koht": "Siseruumid"
         }
+      ],
+      "_toimeained": [
+        "Alumiiniumfosfiid"
       ]
     },
     {
@@ -54051,6 +55531,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Protiokonasool"
       ]
     },
     {
@@ -54076,7 +55559,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00920",
@@ -54165,6 +55649,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Mefentriflukonasool"
       ]
     },
     {
@@ -54245,6 +55732,9 @@
           "kordused": "1-3",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fenmedifaam"
       ]
     },
     {
@@ -54298,6 +55788,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fluopüraam",
+        "Trifloksüstrobiin"
       ]
     },
     {
@@ -54351,6 +55845,9 @@
           "kordused": "1-4",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Pelargoonhape"
       ]
     },
     {
@@ -54376,7 +55873,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "0",
@@ -54401,7 +55899,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "0",
@@ -54426,7 +55925,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "580",
@@ -54686,6 +56186,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Difenokonasool"
       ]
     },
     {
@@ -54793,6 +56296,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Bentasoon"
       ]
     },
     {
@@ -54873,6 +56379,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Difenokonasool"
       ]
     },
     {
@@ -54962,6 +56471,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fludioksoniil",
+        "Difenokonasool"
       ]
     },
     {
@@ -55015,6 +56528,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Klomasoon"
       ]
     },
     {
@@ -55212,6 +56728,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Mepikvaatkloriid",
+        "Proheksadioonkaltsium"
       ]
     },
     {
@@ -55337,6 +56857,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Bensovindiflupüür",
+        "Protiokonasool"
       ]
     },
     {
@@ -55435,6 +56959,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Flupüradifuroon",
+        "Deltametriin"
       ]
     },
     {
@@ -55460,7 +56988,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "69266 Lyon Cedex 09",
@@ -55485,7 +57014,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "France",
@@ -55510,7 +57040,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "608",
@@ -55653,6 +57184,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Prokinasiid"
       ]
     },
     {
@@ -55958,6 +57492,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Parafiinõli"
       ]
     },
     {
@@ -56065,6 +57602,9 @@
           "kordused": "6",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Raud(III)pürofosfaat"
       ]
     },
     {
@@ -56090,7 +57630,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "Kott: 0.5 kg – 50 kg",
@@ -56115,7 +57656,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "Kott: 0.1 kg – 5 kg",
@@ -56140,7 +57682,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "Kott + pappkast: 0.1 kg – 10 kg",
@@ -56165,7 +57708,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "Big bag: 100 kg – 1000 kg",
@@ -56190,7 +57734,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "Ämber: 0.5 kg – 15 kg",
@@ -56215,7 +57760,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "Kott: 0.5 kg – 15 kg",
@@ -56240,7 +57786,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "Kott: 0.1 kg – 5 kg",
@@ -56265,7 +57812,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "Kott + pappkast: 0.1 kg – 10 kg",
@@ -56290,7 +57838,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00682",
@@ -56523,6 +58072,9 @@
           "kordused": "1-4",
           "koht": "Kasvuhoone"
         }
+      ],
+      "_toimeained": [
+        "Raudfosfaat"
       ]
     },
     {
@@ -56548,7 +58100,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "3) Scandagra Eesti AS",
@@ -56573,7 +58126,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "385",
@@ -56644,6 +58198,9 @@
           "kordused": "3",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Tsüprodiniil"
       ]
     },
     {
@@ -56669,7 +58226,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "284",
@@ -56785,6 +58343,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metkonasool"
       ]
     },
     {
@@ -56901,6 +58462,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metkonasool"
       ]
     },
     {
@@ -57053,6 +58617,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Aklonifeen"
       ]
     },
     {
@@ -57439,6 +59006,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Flonikamiid"
       ]
     },
     {
@@ -57501,6 +59071,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Etefoon",
+        "Mepikvaatkloriid"
       ]
     },
     {
@@ -57545,6 +59119,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Boskaliid"
       ]
     },
     {
@@ -57913,6 +59490,9 @@
           "kordused": "3",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fenhexamid "
       ]
     },
     {
@@ -57948,6 +59528,9 @@
           "kordused": "1-3",
           "koht": "Kasvuhoone"
         }
+      ],
+      "_toimeained": [
+        "Daminosiid"
       ]
     },
     {
@@ -58370,6 +59953,9 @@
           "kordused": "1",
           "koht": "Kasvuhoone"
         }
+      ],
+      "_toimeained": [
+        "Asoksüstrobiin"
       ]
     },
     {
@@ -58531,6 +60117,9 @@
           "kordused": "4",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Raudfosfaat"
       ]
     },
     {
@@ -58656,6 +60245,11 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fluroksüpüür",
+        "Klopüraliid",
+        "MCPA"
       ]
     },
     {
@@ -58979,6 +60573,9 @@
           "kordused": "1",
           "koht": "Kasvuhoone"
         }
+      ],
+      "_toimeained": [
+        "Trichoderma harzianum T-22"
       ]
     },
     {
@@ -59275,6 +60872,9 @@
           "kordused": "1",
           "koht": "Kasvuhoone"
         }
+      ],
+      "_toimeained": [
+        "Lambda-tsühalotriin"
       ]
     },
     {
@@ -59373,6 +60973,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Tebukonasool",
+        "Asoksüstrobiin"
       ]
     },
     {
@@ -59417,6 +61021,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fluasinaam"
       ]
     },
     {
@@ -59452,6 +61059,10 @@
           "kordused": "3",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Mandipropamiid",
+        "Amisulbroom"
       ]
     },
     {
@@ -59496,6 +61107,11 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metasakloor",
+        "Kvinmerak",
+        "Dimeteenamiid-P"
       ]
     },
     {
@@ -59549,6 +61165,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Pendimetaliin",
+        "Pikolinafeen"
       ]
     },
     {
@@ -59611,6 +61231,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Pikolinafeen"
       ]
     },
     {
@@ -59709,6 +61332,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "MCPA"
       ]
     },
     {
@@ -59807,6 +61433,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "MCPA"
       ]
     },
     {
@@ -59905,6 +61534,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "MCPA"
       ]
     },
     {
@@ -60030,6 +61662,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "MCPA"
       ]
     },
     {
@@ -60128,6 +61763,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "MCPA"
       ]
     },
     {
@@ -60208,6 +61846,11 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Tritikonasool",
+        "Fludioksoniil",
+        "Fluksapüroksaad"
       ]
     },
     {
@@ -60297,6 +61940,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metkonasool",
+        "Fluksapüroksaad"
       ]
     },
     {
@@ -60395,6 +62042,9 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fluksapüroksaad"
       ]
     },
     {
@@ -60493,6 +62143,9 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fluksapüroksaad"
       ]
     },
     {
@@ -60582,6 +62235,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Püraklostrobiin",
+        "Fluksapüroksaad"
       ]
     },
     {
@@ -60680,6 +62337,10 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Mefentriflukonasool",
+        "Fluksapüroksaad"
       ]
     },
     {
@@ -60769,6 +62430,10 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Mefentriflukonasool",
+        "Fluksapüroksaad"
       ]
     },
     {
@@ -60858,6 +62523,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Siltiofaam"
       ]
     },
     {
@@ -60883,7 +62551,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "The Netherlands",
@@ -60908,7 +62577,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "47",
@@ -61078,6 +62748,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Glüfosaat"
       ]
     },
     {
@@ -61122,6 +62795,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Proheksadioonkaltsium"
       ]
     },
     {
@@ -61211,6 +62887,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Diflufenikaan"
       ]
     },
     {
@@ -61300,6 +62979,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Diflufenikaan"
       ]
     },
     {
@@ -61344,6 +63026,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fluasinaam"
       ]
     },
     {
@@ -61388,6 +63073,9 @@
           "kordused": "8",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fluasinaam"
       ]
     },
     {
@@ -61504,6 +63192,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metkonasool"
       ]
     },
     {
@@ -61548,6 +63239,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Boskaliid"
       ]
     },
     {
@@ -61718,6 +63412,9 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fenpropidiin"
       ]
     },
     {
@@ -61888,6 +63585,9 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fenpropidiin"
       ]
     },
     {
@@ -62562,6 +64262,9 @@
           "kordused": "2",
           "koht": "Kasvuhoone"
         }
+      ],
+      "_toimeained": [
+        "Isofetamiid"
       ]
     },
     {
@@ -62587,7 +64290,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00978",
@@ -62658,6 +64362,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Püraklostrobiin"
       ]
     },
     {
@@ -63269,6 +64976,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Atseetamipriid"
       ]
     },
     {
@@ -63367,6 +65077,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Püriofenoon"
       ]
     },
     {
@@ -63465,6 +65178,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Prosulfokarb"
       ]
     },
     {
@@ -63490,7 +65206,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "5 L pudel",
@@ -63515,7 +65232,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00823",
@@ -63613,6 +65331,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Prosulfokarb"
       ]
     },
     {
@@ -63638,7 +65359,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "5 L pudel",
@@ -63663,7 +65385,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "310",
@@ -63761,6 +65484,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Prosulfokarb"
       ]
     },
     {
@@ -63786,7 +65512,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "5 L pudel",
@@ -63811,7 +65538,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00714",
@@ -63945,6 +65673,9 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Asoksüstrobiin"
       ]
     },
     {
@@ -63970,7 +65701,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "77",
@@ -64068,6 +65800,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Bentasoon"
       ]
     },
     {
@@ -64130,6 +65865,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Kvinmerak",
+        "Imasamoks"
       ]
     },
     {
@@ -64219,6 +65958,10 @@
           "kordused": "1-2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Imasamoks",
+        "Bentasoon"
       ]
     },
     {
@@ -64263,6 +66006,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Imasamoks",
+        "Kvinmerak"
       ]
     },
     {
@@ -64288,7 +66035,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "547",
@@ -64341,6 +66089,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metasakloor",
+        "Imasamoks"
       ]
     },
     {
@@ -64439,6 +66191,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fluroksüpüür"
       ]
     },
     {
@@ -64564,6 +66319,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fluroksüpüür"
       ]
     },
     {
@@ -64680,6 +66438,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fluroksüpüür"
       ]
     },
     {
@@ -64715,6 +66476,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metüülhalauksifeen",
+        "Klopüraliid"
       ]
     },
     {
@@ -64894,6 +66659,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Klopüraliid"
       ]
     },
     {
@@ -64938,6 +66706,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Rimsulfuroon"
       ]
     },
     {
@@ -65036,6 +66807,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fluroksüpüür"
       ]
     },
     {
@@ -65314,6 +67088,9 @@
           "kordused": "1",
           "koht": "Kasvuhoone"
         }
+      ],
+      "_toimeained": [
+        "Streptomyces K 61"
       ]
     },
     {
@@ -65349,6 +67126,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Phlebiopsis gigantea VRA 1835"
       ]
     },
     {
@@ -65384,6 +67164,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Phlebiopsis gigantea VRA 1835"
       ]
     },
     {
@@ -65428,6 +67211,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Mefentriflukonasool"
       ]
     },
     {
@@ -65453,7 +67239,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00844",
@@ -65866,6 +67653,9 @@
           "kordused": "1-3",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Bacillus thuringiensis subsp. aizawai, tüvi GC-91"
       ]
     },
     {
@@ -65901,6 +67691,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Nikosulfuroon",
+        "Mesotrioon"
       ]
     },
     {
@@ -65926,7 +67720,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "Switzerland",
@@ -65951,7 +67746,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "38089327",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "00802",
@@ -66013,6 +67809,12 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Florasulaam",
+        "Pürokssulaam",
+        "Metüülhalauksifeen",
+        "Klokvintotseethape"
       ]
     },
     {
@@ -66048,6 +67850,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Etofumesaat"
       ]
     },
     {
@@ -66596,6 +68401,9 @@
           "kordused": "6",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Bacillus subtilis QST 713"
       ]
     },
     {
@@ -66757,6 +68565,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Klopüraliid"
       ]
     },
     {
@@ -66792,6 +68603,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Klopüraliid"
       ]
     },
     {
@@ -66836,6 +68650,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Klopüraliid"
       ]
     },
     {
@@ -66880,6 +68697,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Klopüraliid"
       ]
     },
     {
@@ -66924,6 +68744,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Klopüraliid"
       ]
     },
     {
@@ -67031,6 +68854,11 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Florasulaam",
+        "Metüülmetsulfuroon",
+        "Metüültribenuroon"
       ]
     },
     {
@@ -67120,6 +68948,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metüültribenuroon",
+        "Metüülmetsulfuroon"
       ]
     },
     {
@@ -67209,6 +69041,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metüültiofeensulfuroon",
+        "Metüültribenuroon"
       ]
     },
     {
@@ -67307,6 +69143,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metüültribenuroon"
       ]
     },
     {
@@ -67405,6 +69244,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metüültribenuroon"
       ]
     },
     {
@@ -67503,6 +69345,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metüültribenuroon"
       ]
     },
     {
@@ -67628,6 +69473,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Bentasoon"
       ]
     },
     {
@@ -67780,6 +69628,9 @@
           "kordused": "1",
           "koht": "Kasvuhoone"
         }
+      ],
+      "_toimeained": [
+        "Fosetüülalumiinium"
       ]
     },
     {
@@ -67878,6 +69729,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Metüültribenuroon"
       ]
     },
     {
@@ -67967,6 +69821,10 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Meksüülklokvintotseet",
+        "Pinoksadeen"
       ]
     },
     {
@@ -67992,7 +69850,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "493",
@@ -68027,6 +69886,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Nikosulfuroon"
       ]
     },
     {
@@ -68062,6 +69924,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Nikosulfuroon"
       ]
     },
     {
@@ -68097,6 +69962,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Nikosulfuroon"
       ]
     },
     {
@@ -68150,6 +70018,9 @@
           "kordused": "1",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Fluksapüroksaad"
       ]
     },
     {
@@ -68175,7 +70046,8 @@
       "Pakendi suurus": "",
       "Vabamüügis olevad pakendid": "",
       "EL kombineeritud nomenklatuur": "",
-      "_kasutusalad": []
+      "_kasutusalad": [],
+      "_toimeained": []
     },
     {
       "Taimekaitsevahendi ID": "535",
@@ -68228,6 +70100,9 @@
           "kordused": "2",
           "koht": "Avamaa"
         }
+      ],
+      "_toimeained": [
+        "Dodiin"
       ]
     }
   ]

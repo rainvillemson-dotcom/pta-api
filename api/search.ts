@@ -12,17 +12,19 @@ const F = {
   hazard:   'Ohutuslaused hoiatuslaused',
   risk:     'Riskilaused ohulaused',
   form:     'Preparatiivne vorm',
+  toimeaine_real: 'EL kombineeritud nomenklatuur',
 }
 
 function normalize(row: Record<string, any>) {
   return {
     nimetus:          row[F.name] ?? '',
     toimeaine:        row[F.active] ?? '',
+    toimeaine_real:   row['EL kombineeritud nomenklatuur'] ?? '',
     liik:             row[F.type] ?? '',
     alamliik:         row[F.subtype] ?? '',
-    registreerimisnr: row[F.reg] ?? '',
+    registreerimisnr: row['Registreerimise number'] ?? '',
     loahoidja:        row[F.holder] ?? '',
-    kehtib_kuni:      row[F.valid_to] ?? '',
+    kehtib_kuni:      row['Turulelaskmise loa lõpptähtaeg'] ?? '',
     ohutuslaused:     row[F.hazard] ?? '',
     riskilaused:      row[F.risk] ?? '',
     vorm:             row[F.form] ?? '',
