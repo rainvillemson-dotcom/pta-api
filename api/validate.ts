@@ -102,7 +102,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       return {
         nimetus: item.nimetus, kultuur: searchCrop, registris: true,
         sobiv_kultuurile: sobiv,
-        registreerimisnr: best['Taimekaitsevahendi ID'] || pick(best, FIELD_MAP.reg),
+        registreerimisnr: best['Taimekaitsevahendi ID'],
         toimeaine: (best._toimeained || []).join(', ') || pick(best, FIELD_MAP.active),
         liik: pick(best, FIELD_MAP.type),
         annus: kasutusalaMatch?.doos || null,
@@ -120,7 +120,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
             piirangud: k.piirangud,
           })),
         koik_kasutusalad: (best._kasutusalad || []).map((k: any) => k.kultuur).filter(Boolean),
-        kehtib_kuni: best['Turulelaskmise loa lõpptähtaeg'] || null,
+        kehtib_kuni: best['Müüdav tunnistusega'] || null,
         ksm: {
           spe3_piirangud: piirangud || null,
           mesilaste_oht: bee_risk || ta.bee_hazard === 'H',
