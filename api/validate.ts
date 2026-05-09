@@ -12,8 +12,8 @@ const FIELD_MAP = {
 }
 
 const KULTUUR_ALIASES: Record<string, string[]> = {
-  nisu:    ['nisu','talinisu','suvinisu','durumnisu','speltanisu','teravil'],
-  oder:    ['oder','talioder','suvioder','teravil'],
+  nisu:    ['nisu','talinisu','suvinisu','durumnisu','speltanisu','teravil','teravili'],
+  oder:    ['oder','talioder','suvioder','teravil','teravili'],
   raps:    ['raps','taliraps','suviraps','clearfield'],
   kartul:  ['kartul'],
   mais:    ['mais'],
