@@ -63,10 +63,13 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       const searchCrop = (item.kultuur || kultuur).toLowerCase().trim()
       const aliases = getAliases(searchCrop)
 
-      const matches = data.filter(row =>
-        pick(row, FIELD_MAP.name).toLowerCase().includes(searchName) ||
-        searchName.includes(pick(row, FIELD_MAP.name).toLowerCase().split(' ')[0])
-      )
+      const matches = data.filter(row => {
+        const regName = pick(row, FIELD_MAP.name).toLowerCase()
+        const searchWords = searchName.split(' ')
+        return regName.includes(searchName) ||
+          searchName.includes(regName) ||
+          searchWords.every((w: string) => regName.includes(w))
+      })
 
       if (!matches.length) return {
         nimetus: item.nimetus, kultuur: searchCrop, registris: false,
