@@ -105,6 +105,18 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
         annus: kasutusalaMatch?.doos || null,
         ooteaeg: kasutusalaMatch?.ooteaeg || null,
         kordused: kasutusalaMatch?.kordused || null,
+        kasutusala_info: (best._kasutusalad || [])
+          .filter((k: any) => aliases.some(a => k.kultuur?.toLowerCase().includes(a)))
+          .map((k: any) => ({
+            kultuur: k.kultuur,
+            kahjustaja: k.kahjustaja,
+            doos: k.doos,
+            ooteaeg: k.ooteaeg,
+            kordused: k.kordused,
+            koht: k.koht,
+            piirangud: k.piirangud,
+          })),
+        koik_kasutusalad: (best._kasutusalad || []).map((k: any) => k.kultuur).filter(Boolean),
         kehtib_kuni: validTo || null,
         ksm: {
           spe3_piirangud: piirangud || null,
