@@ -108,8 +108,8 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
         ooteaeg: kasutusalaMatch?.ooteaeg || null,
         kordused: kasutusalaMatch?.kordused || null,
         kehtib_kuni: best['Müüdav tunnistusega'] || null,
-        kasutusala_info: nisulKasutusalad,
-        koik_kasutusalad: kasutusalad.map((k: any) => k.kultuur).filter(Boolean),
+        kasutusala_info: nisulKasutusalad.slice(0, 5),
+        koik_kasutusalad: [...new Set(kasutusalad.map((k: any) => k.kultuur).filter(Boolean))].slice(0, 10),
         ksm: {
           spe3_piirangud: piirangud || null,
           mesilaste_oht: bee_risk || ta.bee_hazard === 'H',
