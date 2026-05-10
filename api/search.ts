@@ -18,7 +18,7 @@ const F = {
 function normalize(row: Record<string, any>) {
   return {
     nimetus:          row[F.name] ?? '',
-    toimeaine:        (row._toimeained || []).join(', ') || row['EL kombineeritud nomenklatuur'] ?? '',
+    toimeaine:        row["EL kombineeritud nomenklatuur"] ?? "",
     toimeaine_real:   row['EL kombineeritud nomenklatuur'] ?? '',
     liik:             row[F.type] ?? '',
     alamliik:         row[F.subtype] ?? '',
