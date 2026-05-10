@@ -10,6 +10,13 @@ export function getData(): Record<string, any>[] {
   return raw.rows ?? []
 }
 
+export function getUsageMap(): Record<string, any[]> {
+  const file = path.join(DATA_DIR, 'usage-map.json')
+  if (!fs.existsSync(file)) return {}
+  const raw = JSON.parse(fs.readFileSync(file, 'utf8'))
+  return raw.map ?? {}
+}
+
 export function getToimeained(): Record<string, any> {
   const file = path.join(DATA_DIR, 'toimeained.json')
   if (!fs.existsSync(file)) return {}

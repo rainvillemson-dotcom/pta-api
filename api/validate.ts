@@ -1,5 +1,5 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node'
-import { getData, getToimeained } from '../lib/cache'
+import { getData, getToimeained, getUsageMap } from '../lib/cache'
 
 const FIELD_MAP = {
   name:     ['Taimekaitsevahendi nimi'],
@@ -57,6 +57,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
   try {
     const data = getData()
     const toimeained = getToimeained()
+    const usageMap = getUsageMap()
 
     const results = tooted.map(item => {
       const searchName = item.nimetus.toLowerCase().trim()
@@ -109,7 +110,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
         ooteaeg: kasutusalaMatch?.ooteaeg || null,
         kordused: kasutusalaMatch?.kordused || null,
         kasutusala_info: (best._kasutusalad || [])
-          .filter((k: any) => aliases.some(a => k.kultuur?.toLowerCase().includes(a)))
+          kasutusalad.filter((k: any) => aliases.some(a => k.kultuur?.toLowerCase().includes(a)))
           .map((k: any) => ({
             kultuur: k.kultuur,
             kahjustaja: k.kahjustaja,
@@ -119,7 +120,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
             koht: k.koht,
             piirangud: k.piirangud,
           })),
-        koik_kasutusalad: (best._kasutusalad || []).map((k: any) => k.kultuur).filter(Boolean),
+        koik_kasutusalad: kasutusalad.map((k: any) => k.kultuur).filter(Boolean),
         kehtib_kuni: best['Müüdav tunnistusega'] || null,
         ksm: {
           spe3_piirangud: piirangud || null,
