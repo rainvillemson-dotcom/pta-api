@@ -1,2 +1,7 @@
 node_modules/
 .vercel
+data/kasutusalad.json
+data/kasutusala-raw.csv
+data/pta-cache-raw.csv
+data/raw-products.csv
+data/toimeaine-raw.csv
