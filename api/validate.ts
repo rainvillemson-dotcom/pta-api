@@ -3,28 +3,25 @@ import { getData, getToimeained, getUsageMap } from '../lib/cache'
 
 const FIELD_MAP = {
   name:     ['Taimekaitsevahendi nimi'],
-  active:   ['Ohtlikud ained etiketil'],
+  active:   ['EL kombineeritud nomenklatuur'],
   type:     ['Taimekaitsevahendi liik'],
-  reg:      ['Registreerimise number'],
-  holder:   ['Loa valdaja'],
-  valid_to: ['Turulelaskmise loa lõpptähtaeg'],
-  hazard:   ['Ohutuslaused hoiatuslaused'],
+  reg:      ['Taimekaitsevahendi ID'],
 }
 
 const KULTUUR_ALIASES: Record<string, string[]> = {
-  nisu:    ['nisu','talinisu','suvinisu','durumnisu','speltanisu','teravil','teravili'],
-  oder:    ['oder','talioder','suvioder','teravil','teravili'],
+  nisu:    ['nisu','talinisu','suvinisu','durumnisu','speltanisu','teravili','teravil'],
+  oder:    ['oder','talioder','suvioder','teravili','teravil'],
   raps:    ['raps','taliraps','suviraps','clearfield'],
   kartul:  ['kartul'],
   mais:    ['mais'],
   hernes:  ['hernes'],
   lina:    ['lina'],
   kaer:    ['kaer'],
-  rukis:   ['rukis','talirukkil','talirukkis'],
+  rukis:   ['rukis'],
 }
 
 function pick(row: Record<string, any>, keys: string[]): string {
-  for (const k of keys) if (row[k] !== undefined && row[k] !== '') return row[k]
+  for (const k of keys) if (row[k] !== undefined && row[k] !== '') return String(row[k])
   return ''
 }
 
@@ -33,13 +30,6 @@ function getAliases(kultuur: string): string[] {
     if (kultuur.includes(key) || key.includes(kultuur)) return aliases
   }
   return [kultuur]
-}
-
-function findKasutusala(row: Record<string, any>, aliases: string[]) {
-  const kasutusalad = (row._kasutusalad || []) as any[]
-  return kasutusalad.find((k: any) =>
-    aliases.some(a => k.kultuur?.toLowerCase().includes(a))
-  )
 }
 
 export default async function handler(req: VercelRequest, res: VercelResponse) {
@@ -67,9 +57,8 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       const matches = data.filter(row => {
         const regName = pick(row, FIELD_MAP.name).toLowerCase()
         if (!regName) return false
-        const searchWords = searchName.split(' ')
-        return regName.includes(searchName) ||
-          searchWords.every((w: string) => regName.includes(w))
+        const words = searchName.split(' ')
+        return regName.includes(searchName) || words.every(w => regName.includes(w))
       })
 
       if (!matches.length) return {
@@ -80,48 +69,47 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       }
 
       const best = matches[0]
-      const kasutusalaMatch = findKasutusala(best, aliases)
+      const id = pick(best, FIELD_MAP.reg)
+      const kasutusalad = usageMap[id] || []
+
+      const kasutusalaMatch = kasutusalad.find((k: any) =>
+        aliases.some(a => k.kultuur?.toLowerCase().includes(a))
+      )
       const sobiv = !!kasutusalaMatch
 
-      const validTo = pick(best, FIELD_MAP.valid_to)
       const probleemid: string[] = []
       if (!sobiv) {
-        const olemasolevad = (best._kasutusalad || []).slice(0, 5).map((k: any) => k.kultuur).join(', ')
-        probleemid.push(`Ei leitud luba kultuuril "${searchCrop}". Registreeritud kasutusalad: ${olemasolevad || '?'}`)
+        const olemasolevad = kasutusalad.slice(0, 5).map((k: any) => k.kultuur).join(', ')
+        probleemid.push(`Ei leitud luba kultuuril "${searchCrop}". Registreeritud: ${olemasolevad || '?'}`)
       }
-      // kehtib_kuni from CSV is unreliable due to column shift — skip expiry check
 
       const piirangud = kasutusalaMatch?.piirangud || ''
       const bee_risk = /mesila|mesilane/i.test(piirangud)
-      const water = /spe3|veekogu|veekaitsevöönd/i.test(piirangud)
+      const water = /spe3|veekogu|veekaitsevöönd|puhvertsoon/i.test(piirangud)
       if (bee_risk) probleemid.push('Mesilaste oht — teavita mesinike 48h enne')
       if (water) probleemid.push('Veekaitsepiirangud — kontrolli SPe3')
 
       const taKey = pick(best, FIELD_MAP.active).toLowerCase().split(/[,;+]/)[0].trim()
       const ta = toimeained[taKey] ?? {}
 
+      const nisulKasutusalad = kasutusalad.filter((k: any) =>
+        aliases.some(a => k.kultuur?.toLowerCase().includes(a))
+      )
+
       return {
-        nimetus: item.nimetus, kultuur: searchCrop, registris: true,
+        nimetus: item.nimetus,
+        kultuur: searchCrop,
+        registris: true,
         sobiv_kultuurile: sobiv,
-        registreerimisnr: best['Taimekaitsevahendi ID'],
+        registreerimisnr: id,
         toimeaine: (best._toimeained || []).join(', ') || pick(best, FIELD_MAP.active),
         liik: pick(best, FIELD_MAP.type),
         annus: kasutusalaMatch?.doos || null,
         ooteaeg: kasutusalaMatch?.ooteaeg || null,
         kordused: kasutusalaMatch?.kordused || null,
-        kasutusala_info: (best._kasutusalad || [])
-          kasutusalad.filter((k: any) => aliases.some(a => k.kultuur?.toLowerCase().includes(a)))
-          .map((k: any) => ({
-            kultuur: k.kultuur,
-            kahjustaja: k.kahjustaja,
-            doos: k.doos,
-            ooteaeg: k.ooteaeg,
-            kordused: k.kordused,
-            koht: k.koht,
-            piirangud: k.piirangud,
-          })),
-        koik_kasutusalad: kasutusalad.map((k: any) => k.kultuur).filter(Boolean),
         kehtib_kuni: best['Müüdav tunnistusega'] || null,
+        kasutusala_info: nisulKasutusalad,
+        koik_kasutusalad: kasutusalad.map((k: any) => k.kultuur).filter(Boolean),
         ksm: {
           spe3_piirangud: piirangud || null,
           mesilaste_oht: bee_risk || ta.bee_hazard === 'H',
