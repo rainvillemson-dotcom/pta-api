@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-08T21:15:27.163Z",
-  "count": 40,
+  "updated": "2026-05-11T05:52:29.735Z",
+  "count": 80,
   "data": {
     "2-bensisotiasoliin-3-ooni": {
       "nimetus": "2-bensisotiasoliin-3-ooni",
@@ -161,6 +161,166 @@
     "h351 arvatavasti põhjustab vähktõbe": {
       "nimetus": "h351 arvatavasti põhjustab vähktõbe",
       "uuendatud": "2026-05-08T21:15:26.563Z"
+    },
+    "h361 arvatavasti kahjustab viljakust või loodet": {
+      "nimetus": "h361 arvatavasti kahjustab viljakust või loodet",
+      "uuendatud": "2026-05-11T05:52:01.841Z"
+    },
+    "h361d arvatavasti kahjustab loodet": {
+      "nimetus": "h361d arvatavasti kahjustab loodet",
+      "uuendatud": "2026-05-11T05:52:02.542Z"
+    },
+    "h361f arvatavasti kahjustab viljakust": {
+      "nimetus": "h361f arvatavasti kahjustab viljakust",
+      "uuendatud": "2026-05-11T05:52:03.243Z"
+    },
+    "h373 võib kahjustada elundeid (seedetrakt) pikaajalise või korduva kokkupuute kaudu.": {
+      "nimetus": "h373 võib kahjustada elundeid (seedetrakt) pikaajalise või korduva kokkupuute kaudu.",
+      "uuendatud": "2026-05-11T05:52:03.943Z"
+    },
+    "h373 võib kahjustada elundeid (silmad": {
+      "nimetus": "h373 võib kahjustada elundeid (silmad",
+      "uuendatud": "2026-05-11T05:52:04.643Z"
+    },
+    "h373 võib kahjustada elundeid pikaajalisel või korduval kokkupuutel": {
+      "nimetus": "h373 võib kahjustada elundeid pikaajalisel või korduval kokkupuutel",
+      "uuendatud": "2026-05-11T05:52:05.343Z"
+    },
+    "h410 väga mürgine veeorganismidele": {
+      "nimetus": "h410 väga mürgine veeorganismidele",
+      "uuendatud": "2026-05-11T05:52:06.043Z"
+    },
+    "h411 mürgine veeorganismidele": {
+      "nimetus": "h411 mürgine veeorganismidele",
+      "uuendatud": "2026-05-11T05:52:06.744Z"
+    },
+    "h412 ohtlik veeorganismidele": {
+      "nimetus": "h412 ohtlik veeorganismidele",
+      "uuendatud": "2026-05-11T05:52:07.445Z"
+    },
+    "hdpe/pa": {
+      "nimetus": "hdpe/pa",
+      "uuendatud": "2026-05-11T05:52:08.145Z"
+    },
+    "hingamisteede/naha sensibiliseerimine - skin sens. 1": {
+      "nimetus": "hingamisteede/naha sensibiliseerimine - skin sens. 1",
+      "uuendatud": "2026-05-11T05:52:08.844Z"
+    },
+    "hingamisteede/naha sensibiliseerimine - skin sens. 1a": {
+      "nimetus": "hingamisteede/naha sensibiliseerimine - skin sens. 1a",
+      "uuendatud": "2026-05-11T05:52:09.545Z"
+    },
+    "hoiatus": {
+      "nimetus": "hoiatus",
+      "uuendatud": "2026-05-11T05:52:10.246Z"
+    },
+    "juua ega suitsetada.": {
+      "nimetus": "juua ega suitsetada.",
+      "uuendatud": "2026-05-11T05:52:10.946Z"
+    },
+    "kaitseprille ja kaitsemaski.": {
+      "nimetus": "kaitseprille ja kaitsemaski.",
+      "uuendatud": "2026-05-11T05:52:11.646Z"
+    },
+    "kaitseprille või kaitsemaski.": {
+      "nimetus": "kaitseprille või kaitsemaski.",
+      "uuendatud": "2026-05-11T05:52:12.347Z"
+    },
+    "kaitserõivastust": {
+      "nimetus": "kaitserõivastust",
+      "uuendatud": "2026-05-11T05:52:13.047Z"
+    },
+    "kaitserõivastust ja kaitsemaski.": {
+      "nimetus": "kaitserõivastust ja kaitsemaski.",
+      "uuendatud": "2026-05-11T05:52:13.748Z"
+    },
+    "kantserogeensus - carc. 2": {
+      "nimetus": "kantserogeensus - carc. 2",
+      "uuendatud": "2026-05-11T05:52:14.447Z"
+    },
+    "kartulil": {
+      "nimetus": "kartulil",
+      "uuendatud": "2026-05-11T05:52:15.146Z"
+    },
+    "kartulit": {
+      "nimetus": "kartulit",
+      "uuendatud": "2026-05-11T05:52:15.847Z"
+    },
+    "kasutada 50 % või 75 % triivi vähendavaid otsakuid 5 m puhvervööndiga või kasutada 90 % triivi vähendavaid otsakuid puhvervööndita.": {
+      "nimetus": "kasutada 50 % või 75 % triivi vähendavaid otsakuid 5 m puhvervööndiga või kasutada 90 % triivi vähendavaid otsakuid puhvervööndita.",
+      "uuendatud": "2026-05-11T05:52:16.546Z"
+    },
+    "klassifikatsioon puudub": {
+      "nimetus": "klassifikatsioon puudub",
+      "uuendatud": "2026-05-11T05:52:17.245Z"
+    },
+    "kui neid kasutatakse ja kui neid on kerge eemaldada. loputada veel kord.": {
+      "nimetus": "kui neid kasutatakse ja kui neid on kerge eemaldada. loputada veel kord.",
+      "uuendatud": "2026-05-11T05:52:17.944Z"
+    },
+    "kui neid kasutatakse ja kui neid on kerge eemaldada. loputada veel kord. võtta viivitamata ühendust mürgistusteabekeskuse või arstiga.": {
+      "nimetus": "kui neid kasutatakse ja kui neid on kerge eemaldada. loputada veel kord. võtta viivitamata ühendust mürgistusteabekeskuse või arstiga.",
+      "uuendatud": "2026-05-11T05:52:18.644Z"
+    },
+    "liiva": {
+      "nimetus": "liiva",
+      "uuendatud": "2026-05-11T05:52:19.344Z"
+    },
+    "maitsetaimedel": {
+      "nimetus": "maitsetaimedel",
+      "uuendatud": "2026-05-11T05:52:20.043Z"
+    },
+    "mille korral kehtib kasutuspiirang: mitte kasutada seda või ükskõik millist muud dimeteenamiid-p-d sisaldavat vahendit rohkem kui üks kord samal põllul kolme aasta jooksul.": {
+      "nimetus": "mille korral kehtib kasutuspiirang: mitte kasutada seda või ükskõik millist muud dimeteenamiid-p-d sisaldavat vahendit rohkem kui üks kord samal põllul kolme aasta jooksul.",
+      "uuendatud": "2026-05-11T05:52:20.743Z"
+    },
+    "mille leiab infolehel vastavast tabelist.": {
+      "nimetus": "mille leiab infolehel vastavast tabelist.",
+      "uuendatud": "2026-05-11T05:52:21.442Z"
+    },
+    "mis sisaldab dimetakloori": {
+      "nimetus": "mis sisaldab dimetakloori",
+      "uuendatud": "2026-05-11T05:52:22.142Z"
+    },
+    "mis sisaldab flupüradifurooni rohkem kui üks kord kolme aasta jooksul.": {
+      "nimetus": "mis sisaldab flupüradifurooni rohkem kui üks kord kolme aasta jooksul.",
+      "uuendatud": "2026-05-11T05:52:22.841Z"
+    },
+    "mis sisaldab klopüraliidi rohkem kui üks pritsimiskord igal kolmandal aastal": {
+      "nimetus": "mis sisaldab klopüraliidi rohkem kui üks pritsimiskord igal kolmandal aastal",
+      "uuendatud": "2026-05-11T05:52:23.541Z"
+    },
+    "mis sisaldab metasakloori": {
+      "nimetus": "mis sisaldab metasakloori",
+      "uuendatud": "2026-05-11T05:52:24.240Z"
+    },
+    "mis sisaldab toimeainet kvinmeraak rohkem kui üks kord kahe aasta jooksul.": {
+      "nimetus": "mis sisaldab toimeainet kvinmeraak rohkem kui üks kord kahe aasta jooksul.",
+      "uuendatud": "2026-05-11T05:52:24.939Z"
+    },
+    "mis sisaldab toimeainet kvinmeraak rohkem kui üks kord kolme aasta jooksul.": {
+      "nimetus": "mis sisaldab toimeainet kvinmeraak rohkem kui üks kord kolme aasta jooksul.",
+      "uuendatud": "2026-05-11T05:52:25.640Z"
+    },
+    "mis võimaldab kergesti hingata.": {
+      "nimetus": "mis võimaldab kergesti hingata.",
+      "uuendatud": "2026-05-11T05:52:26.339Z"
+    },
+    "mürgisus sihtelundi suhtes – ühekordne kokkupuude - stot se 3": {
+      "nimetus": "mürgisus sihtelundi suhtes – ühekordne kokkupuude - stot se 3",
+      "uuendatud": "2026-05-11T05:52:27.038Z"
+    },
+    "nagu näiteks asfalt": {
+      "nimetus": "nagu näiteks asfalt",
+      "uuendatud": "2026-05-11T05:52:27.738Z"
+    },
+    "nahasöövitus/-ärritus - skin irrit. 2": {
+      "nimetus": "nahasöövitus/-ärritus - skin irrit. 2",
+      "uuendatud": "2026-05-11T05:52:28.437Z"
+    },
+    "ohtlik vesikeskkonnale - aquatic acute 1": {
+      "nimetus": "ohtlik vesikeskkonnale - aquatic acute 1",
+      "uuendatud": "2026-05-11T05:52:29.136Z"
     }
   }
 }
