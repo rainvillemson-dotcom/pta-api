@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-11T05:52:29.735Z",
-  "count": 80,
+  "updated": "2026-05-18T06:05:35.594Z",
+  "count": 120,
   "data": {
     "2-bensisotiasoliin-3-ooni": {
       "nimetus": "2-bensisotiasoliin-3-ooni",
@@ -321,6 +321,166 @@
     "ohtlik vesikeskkonnale - aquatic acute 1": {
       "nimetus": "ohtlik vesikeskkonnale - aquatic acute 1",
       "uuendatud": "2026-05-11T05:52:29.136Z"
+    },
+    "ohtlik vesikeskkonnale - aquatic chronic 1": {
+      "nimetus": "ohtlik vesikeskkonnale - aquatic chronic 1",
+      "uuendatud": "2026-05-18T06:05:07.266Z"
+    },
+    "ohtlik vesikeskkonnale - aquatic chronic 2": {
+      "nimetus": "ohtlik vesikeskkonnale - aquatic chronic 2",
+      "uuendatud": "2026-05-18T06:05:07.978Z"
+    },
+    "ohtlik vesikeskkonnale - aquatic chronic 3": {
+      "nimetus": "ohtlik vesikeskkonnale - aquatic chronic 3",
+      "uuendatud": "2026-05-18T06:05:08.689Z"
+    },
+    "p101 arsti poole pöördudes võtta kaasa toote pekend või etikett.": {
+      "nimetus": "p101 arsti poole pöördudes võtta kaasa toote pekend või etikett.",
+      "uuendatud": "2026-05-18T06:05:09.401Z"
+    },
+    "p102 hoida lastele kättesaamatus kohas.": {
+      "nimetus": "p102 hoida lastele kättesaamatus kohas.",
+      "uuendatud": "2026-05-18T06:05:10.113Z"
+    },
+    "p103 enne kasutamist tutvuda etiketil oleva infoga.": {
+      "nimetus": "p103 enne kasutamist tutvuda etiketil oleva infoga.",
+      "uuendatud": "2026-05-18T06:05:10.824Z"
+    },
+    "p201 enne kasutamist tutvuda erijuhistega.": {
+      "nimetus": "p201 enne kasutamist tutvuda erijuhistega.",
+      "uuendatud": "2026-05-18T06:05:11.536Z"
+    },
+    "p202 mitte käidelda enne ohutusnõuetega tutvumist ja nendest arusaamist.": {
+      "nimetus": "p202 mitte käidelda enne ohutusnõuetega tutvumist ja nendest arusaamist.",
+      "uuendatud": "2026-05-18T06:05:12.247Z"
+    },
+    "p210 hoida eemal soojusallikast/sädemetest/leekidest/kuumadest pindadest. – mitte suitsetada": {
+      "nimetus": "p210 hoida eemal soojusallikast/sädemetest/leekidest/kuumadest pindadest. – mitte suitsetada",
+      "uuendatud": "2026-05-18T06:05:12.959Z"
+    },
+    "p232 hoida niiskuse eest.": {
+      "nimetus": "p232 hoida niiskuse eest.",
+      "uuendatud": "2026-05-18T06:05:13.671Z"
+    },
+    "p233 hoida hästi ventileeritavas kohas. hoida mahuti tihedalt suletuna.": {
+      "nimetus": "p233 hoida hästi ventileeritavas kohas. hoida mahuti tihedalt suletuna.",
+      "uuendatud": "2026-05-18T06:05:14.381Z"
+    },
+    "p234 hoida üksnes originaalpakendis.": {
+      "nimetus": "p234 hoida üksnes originaalpakendis.",
+      "uuendatud": "2026-05-18T06:05:15.093Z"
+    },
+    "p235": {
+      "nimetus": "p235",
+      "uuendatud": "2026-05-18T06:05:15.804Z"
+    },
+    "p260 auru ja pihustatud ainet mitte sisse hingata": {
+      "nimetus": "p260 auru ja pihustatud ainet mitte sisse hingata",
+      "uuendatud": "2026-05-18T06:05:16.516Z"
+    },
+    "p260 tolmu ja pihustatud ainet mitte sisse hingata": {
+      "nimetus": "p260 tolmu ja pihustatud ainet mitte sisse hingata",
+      "uuendatud": "2026-05-18T06:05:17.227Z"
+    },
+    "p260 udu/auru mitte sisse hingata.": {
+      "nimetus": "p260 udu/auru mitte sisse hingata.",
+      "uuendatud": "2026-05-18T06:05:17.939Z"
+    },
+    "p260 udu/auru/pihustatud ainet mitte sisse hingata.": {
+      "nimetus": "p260 udu/auru/pihustatud ainet mitte sisse hingata.",
+      "uuendatud": "2026-05-18T06:05:18.650Z"
+    },
+    "p261 vältida auru ja pihustatud aine sissehingamist": {
+      "nimetus": "p261 vältida auru ja pihustatud aine sissehingamist",
+      "uuendatud": "2026-05-18T06:05:19.361Z"
+    },
+    "p261 vältida auru sissehingamist.": {
+      "nimetus": "p261 vältida auru sissehingamist.",
+      "uuendatud": "2026-05-18T06:05:20.071Z"
+    },
+    "p261 vältida pihustatud aine sissehingamist.": {
+      "nimetus": "p261 vältida pihustatud aine sissehingamist.",
+      "uuendatud": "2026-05-18T06:05:20.783Z"
+    },
+    "p261 vältida tolmu ja pihustatud aine sissehingamist.": {
+      "nimetus": "p261 vältida tolmu ja pihustatud aine sissehingamist.",
+      "uuendatud": "2026-05-18T06:05:21.494Z"
+    },
+    "p261 vältida tolmu/suitsu/gaasi/udu/auru/pihustatud aine sissehingamist.": {
+      "nimetus": "p261 vältida tolmu/suitsu/gaasi/udu/auru/pihustatud aine sissehingamist.",
+      "uuendatud": "2026-05-18T06:05:22.205Z"
+    },
+    "p261 vältida udu/auru/pihustatud aine sissehingamist.": {
+      "nimetus": "p261 vältida udu/auru/pihustatud aine sissehingamist.",
+      "uuendatud": "2026-05-18T06:05:22.916Z"
+    },
+    "p262 vältida silma": {
+      "nimetus": "p262 vältida silma",
+      "uuendatud": "2026-05-18T06:05:23.626Z"
+    },
+    "p263 vältida kokkupuudet raseduse/imetamise ajal.": {
+      "nimetus": "p263 vältida kokkupuudet raseduse/imetamise ajal.",
+      "uuendatud": "2026-05-18T06:05:24.337Z"
+    },
+    "p264 pärast käitlemist pesta hoolega käsi ja nägu.": {
+      "nimetus": "p264 pärast käitlemist pesta hoolega käsi ja nägu.",
+      "uuendatud": "2026-05-18T06:05:25.048Z"
+    },
+    "p264 pärast käitlemist pesta hoolega vahendiga kokkupuutunud kehaosi.": {
+      "nimetus": "p264 pärast käitlemist pesta hoolega vahendiga kokkupuutunud kehaosi.",
+      "uuendatud": "2026-05-18T06:05:25.758Z"
+    },
+    "p270 toote käitlemise ajal mitte süüa": {
+      "nimetus": "p270 toote käitlemise ajal mitte süüa",
+      "uuendatud": "2026-05-18T06:05:26.468Z"
+    },
+    "p271 käidelda üksnes välitingimustes või hästi ventileeritavas kohas.": {
+      "nimetus": "p271 käidelda üksnes välitingimustes või hästi ventileeritavas kohas.",
+      "uuendatud": "2026-05-18T06:05:27.178Z"
+    },
+    "p272 saastunud töörõivaid töökohast mitte välja viia.": {
+      "nimetus": "p272 saastunud töörõivaid töökohast mitte välja viia.",
+      "uuendatud": "2026-05-18T06:05:27.888Z"
+    },
+    "p273 vältida sattumist keskkonda.": {
+      "nimetus": "p273 vältida sattumist keskkonda.",
+      "uuendatud": "2026-05-18T06:05:28.599Z"
+    },
+    "p280 kanda kaitsekindaid": {
+      "nimetus": "p280 kanda kaitsekindaid",
+      "uuendatud": "2026-05-18T06:05:29.310Z"
+    },
+    "p280 kanda kaitsekindaid ja kaitsemaski.": {
+      "nimetus": "p280 kanda kaitsekindaid ja kaitsemaski.",
+      "uuendatud": "2026-05-18T06:05:30.020Z"
+    },
+    "p280 kanda kaitsekindaid ja kaitseprille või kaitsemaski.": {
+      "nimetus": "p280 kanda kaitsekindaid ja kaitseprille või kaitsemaski.",
+      "uuendatud": "2026-05-18T06:05:30.731Z"
+    },
+    "p280 kanda kaitsekindaid ja kaitseprille.": {
+      "nimetus": "p280 kanda kaitsekindaid ja kaitseprille.",
+      "uuendatud": "2026-05-18T06:05:31.442Z"
+    },
+    "p280 kanda kaitsekindaid ja kaitserõivastust.": {
+      "nimetus": "p280 kanda kaitsekindaid ja kaitserõivastust.",
+      "uuendatud": "2026-05-18T06:05:32.152Z"
+    },
+    "p280 kanda kaitsekindaid.": {
+      "nimetus": "p280 kanda kaitsekindaid.",
+      "uuendatud": "2026-05-18T06:05:32.862Z"
+    },
+    "p280 kanda kaitseprille või kaitsemaski": {
+      "nimetus": "p280 kanda kaitseprille või kaitsemaski",
+      "uuendatud": "2026-05-18T06:05:33.572Z"
+    },
+    "p301": {
+      "nimetus": "p301",
+      "uuendatud": "2026-05-18T06:05:34.283Z"
+    },
+    "p302": {
+      "nimetus": "p302",
+      "uuendatud": "2026-05-18T06:05:34.994Z"
     }
   }
 }
