@@ -1,5 +1,5 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node'
-import { getData } from '../lib/cache'
+import { getData, getUsageMap } from '../lib/cache'
 
 const F = {
   name:     'Taimekaitsevahendi nimi',
@@ -35,10 +35,26 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
   if (req.method === 'OPTIONS') return res.status(200).end()
   try {
     const data = getData()
-    const { q, liik, toimeaine, limit = '20' } = req.query
+    const { q, liik, toimeaine, kultuur, kahjustaja, limit = '20' } = req.query
     const maxLimit = Math.min(parseInt(String(limit)) || 20, 50)
     let results = data.map(normalize)
     if (q) { const t = String(q).toLowerCase(); results = results.filter(r => r.nimetus.toLowerCase().includes(t) || r.toimeaine.toLowerCase().includes(t)) }
+    if (kultuur) {
+      const t = String(kultuur).toLowerCase()
+      const usageMap = getUsageMap()
+      results = results.filter(r => {
+        const kasutusalad = usageMap[r.registreerimisnr] || []
+        return kasutusalad.some((k: any) => k.kultuur?.toLowerCase().includes(t))
+      })
+    }
+    if (kahjustaja) {
+      const t = String(kahjustaja).toLowerCase()
+      const usageMap = getUsageMap()
+      results = results.filter(r => {
+        const kasutusalad = usageMap[r.registreerimisnr] || []
+        return kasutusalad.some((k: any) => k.kahjustaja?.toLowerCase().includes(t))
+      })
+    }
     if (liik) { const t = String(liik).toLowerCase(); results = results.filter(r => r.liik.toLowerCase().includes(t)) }
     if (toimeaine) { const t = String(toimeaine).toLowerCase(); results = results.filter(r => r.toimeaine.toLowerCase().includes(t)) }
     return res.status(200).json({ total: results.length, returned: Math.min(results.length, maxLimit), results: results.slice(0, maxLimit) })

@@ -107,7 +107,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
         annus: kasutusalaMatch?.doos || null,
         ooteaeg: kasutusalaMatch?.ooteaeg || null,
         kordused: kasutusalaMatch?.kordused || null,
-        kehtib_kuni: null, // CSV column shift - unreliable
+        kehtib_kuni: best["Turulelaskmise loa lõpptähtaeg"] || null,
         kasutusala_info: nisulKasutusalad.slice(0, 5),
         koik_kasutusalad: [...new Set(kasutusalad.map((k: any) => k.kultuur).filter(Boolean))].slice(0, 10),
         ksm: {
