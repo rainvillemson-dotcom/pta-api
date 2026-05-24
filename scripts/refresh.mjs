@@ -44,6 +44,7 @@ async function main() {
       ooteaeg:    row['Ooteaeg'] ?? '',
       piirangud:  row['Piirangud'] ?? '',
       kordused:   row['Töötlemiskordi kasvuperioodil'] ?? '',
+      intervall:  row['Töötlemiste intervall'] ?? '',
       koht:       row['Kasutamise koht'] ?? '',
     })
   }
