@@ -1,7 +1,19 @@
 {
-  "updated": "2026-05-24T11:36:35.401Z",
-  "count": 180,
+  "updated": "2026-05-25T06:19:01.995Z",
+  "count": 220,
   "data": {
+    "1": {
+      "nimetus": "1",
+      "uuendatud": "2026-05-25T06:18:35.860Z"
+    },
+    "2": {
+      "nimetus": "2",
+      "uuendatud": "2026-05-25T06:18:38.699Z"
+    },
+    "4": {
+      "nimetus": "4",
+      "uuendatud": "2026-05-25T06:18:57.851Z"
+    },
     "2-bensisotiasoliin-3-ooni": {
       "nimetus": "2-bensisotiasoliin-3-ooni",
       "uuendatud": "2026-05-08T21:14:58.797Z"
@@ -721,6 +733,154 @@
     "fosetüül": {
       "nimetus": "fosetüül",
       "uuendatud": "2026-05-24T11:36:34.799Z"
+    },
+    "(2s) -": {
+      "nimetus": "(2s) -",
+      "uuendatud": "2026-05-25T06:18:33.729Z"
+    },
+    "(e": {
+      "nimetus": "(e",
+      "uuendatud": "2026-05-25T06:18:34.440Z"
+    },
+    "-": {
+      "nimetus": "-",
+      "uuendatud": "2026-05-25T06:18:35.150Z"
+    },
+    "1-(3-kloroallüül)-3": {
+      "nimetus": "1-(3-kloroallüül)-3",
+      "uuendatud": "2026-05-25T06:18:36.570Z"
+    },
+    "1-propanool": {
+      "nimetus": "1-propanool",
+      "uuendatud": "2026-05-25T06:18:37.280Z"
+    },
+    "10-dodekadieen-1-ool": {
+      "nimetus": "10-dodekadieen-1-ool",
+      "uuendatud": "2026-05-25T06:18:37.990Z"
+    },
+    "2 bensisotiasool-3(2h)-oon": {
+      "nimetus": "2 bensisotiasool-3(2h)-oon",
+      "uuendatud": "2026-05-25T06:18:39.409Z"
+    },
+    "2 metüülisotiasool-3-oon": {
+      "nimetus": "2 metüülisotiasool-3-oon",
+      "uuendatud": "2026-05-25T06:18:40.120Z"
+    },
+    "2-((1-((2-etüülheksüül)polüoksü)polüpropaan-2-üül)oksü)etanool": {
+      "nimetus": "2-((1-((2-etüülheksüül)polüoksü)polüpropaan-2-üül)oksü)etanool",
+      "uuendatud": "2026-05-25T06:18:40.830Z"
+    },
+    "2-bensisotiasoliin-3-oon": {
+      "nimetus": "2-bensisotiasoliin-3-oon",
+      "uuendatud": "2026-05-25T06:18:41.540Z"
+    },
+    "2-bensisotiasoliin-3-oon (bit)": {
+      "nimetus": "2-bensisotiasoliin-3-oon (bit)",
+      "uuendatud": "2026-05-25T06:18:42.249Z"
+    },
+    "2-bensisotiasool-3(2h)-oon": {
+      "nimetus": "2-bensisotiasool-3(2h)-oon",
+      "uuendatud": "2026-05-25T06:18:42.959Z"
+    },
+    "2-bensisotiasool-3-(2h)-one": {
+      "nimetus": "2-bensisotiasool-3-(2h)-one",
+      "uuendatud": "2026-05-25T06:18:43.669Z"
+    },
+    "2-bensisotiasool-3-oon": {
+      "nimetus": "2-bensisotiasool-3-oon",
+      "uuendatud": "2026-05-25T06:18:44.379Z"
+    },
+    "2-bensisotiasool-3-ooni reaktsioonisaadust": {
+      "nimetus": "2-bensisotiasool-3-ooni reaktsioonisaadust",
+      "uuendatud": "2026-05-25T06:18:45.088Z"
+    },
+    "2-bensoisotiasool-3(2h)-oon": {
+      "nimetus": "2-bensoisotiasool-3(2h)-oon",
+      "uuendatud": "2026-05-25T06:18:45.797Z"
+    },
+    "2-butoksüetanool": {
+      "nimetus": "2-butoksüetanool",
+      "uuendatud": "2026-05-25T06:18:46.507Z"
+    },
+    "2-diool ja etoksüülitud alkohol": {
+      "nimetus": "2-diool ja etoksüülitud alkohol",
+      "uuendatud": "2026-05-25T06:18:47.217Z"
+    },
+    "2-etaandiool": {
+      "nimetus": "2-etaandiool",
+      "uuendatud": "2026-05-25T06:18:47.925Z"
+    },
+    "2-etaandiool.": {
+      "nimetus": "2-etaandiool.",
+      "uuendatud": "2026-05-25T06:18:48.634Z"
+    },
+    "2-etüülheksaan-1-ool": {
+      "nimetus": "2-etüülheksaan-1-ool",
+      "uuendatud": "2026-05-25T06:18:49.344Z"
+    },
+    "2-etüülheksanool": {
+      "nimetus": "2-etüülheksanool",
+      "uuendatud": "2026-05-25T06:18:50.052Z"
+    },
+    "2-etüülheksanool ja 2": {
+      "nimetus": "2-etüülheksanool ja 2",
+      "uuendatud": "2026-05-25T06:18:50.761Z"
+    },
+    "2-etüülheksanoolpropüleenetüleenglükooleeter": {
+      "nimetus": "2-etüülheksanoolpropüleenetüleenglükooleeter",
+      "uuendatud": "2026-05-25T06:18:51.470Z"
+    },
+    "2-etüülheksanoolpropüleenetüleenglükooleetrit ja n": {
+      "nimetus": "2-etüülheksanoolpropüleenetüleenglükooleetrit ja n",
+      "uuendatud": "2026-05-25T06:18:52.179Z"
+    },
+    "2-etüülheksüülester": {
+      "nimetus": "2-etüülheksüülester",
+      "uuendatud": "2026-05-25T06:18:52.888Z"
+    },
+    "2-hüdroksü-": {
+      "nimetus": "2-hüdroksü-",
+      "uuendatud": "2026-05-25T06:18:53.597Z"
+    },
+    "2-metüül-4-isotiasoliin-3-oon": {
+      "nimetus": "2-metüül-4-isotiasoliin-3-oon",
+      "uuendatud": "2026-05-25T06:18:54.306Z"
+    },
+    "2-metüül-4-isotiasoliin-3-oon (c(m)it/ mit)": {
+      "nimetus": "2-metüül-4-isotiasoliin-3-oon (c(m)it/ mit)",
+      "uuendatud": "2026-05-25T06:18:55.015Z"
+    },
+    "2-metüülisotiasool-3(2h)-oon": {
+      "nimetus": "2-metüülisotiasool-3(2h)-oon",
+      "uuendatud": "2026-05-25T06:18:55.724Z"
+    },
+    "2-metüülisotiasool-3(2h)-ooni ning 1": {
+      "nimetus": "2-metüülisotiasool-3(2h)-ooni ning 1",
+      "uuendatud": "2026-05-25T06:18:56.433Z"
+    },
+    "2-metüülpropaan-1-ool.": {
+      "nimetus": "2-metüülpropaan-1-ool.",
+      "uuendatud": "2026-05-25T06:18:57.143Z"
+    },
+    "4-c10-13-alküülderivaadid": {
+      "nimetus": "4-c10-13-alküülderivaadid",
+      "uuendatud": "2026-05-25T06:18:58.559Z"
+    },
+    "4-d 2 ehe": {
+      "nimetus": "4-d 2 ehe",
+      "uuendatud": "2026-05-25T06:18:59.268Z"
+    },
+    "4-d dma": {
+      "nimetus": "4-d dma",
+      "uuendatud": "2026-05-25T06:18:59.976Z"
+    },
+    "4-d dma derivaat": {
+      "nimetus": "4-d dma derivaat",
+      "uuendatud": "2026-05-25T06:19:00.685Z"
+    },
+    "4-d-2-etüülheksüülester": {
+      "nimetus": "4-d-2-etüülheksüülester",
+      "uuendatud": "2026-05-25T06:19:01.394Z"
     }
   }
 }
