@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-25T06:19:01.995Z",
-  "count": 220,
+  "updated": "2026-06-01T06:46:52.852Z",
+  "count": 260,
   "data": {
     "1": {
       "nimetus": "1",
@@ -13,6 +13,10 @@
     "4": {
       "nimetus": "4",
       "uuendatud": "2026-05-25T06:18:57.851Z"
+    },
+    "5": {
+      "nimetus": "5",
+      "uuendatud": "2026-06-01T06:46:27.842Z"
     },
     "2-bensisotiasoliin-3-ooni": {
       "nimetus": "2-bensisotiasoliin-3-ooni",
@@ -881,6 +885,162 @@
     "4-d-2-etüülheksüülester": {
       "nimetus": "4-d-2-etüülheksüülester",
       "uuendatud": "2026-05-25T06:19:01.394Z"
+    },
+    "4-diklorofenool ja 4-kloro-2-metüülfenool": {
+      "nimetus": "4-diklorofenool ja 4-kloro-2-metüülfenool",
+      "uuendatud": "2026-06-01T06:46:25.807Z"
+    },
+    "4-diklorofenool.": {
+      "nimetus": "4-diklorofenool.",
+      "uuendatud": "2026-06-01T06:46:26.485Z"
+    },
+    "4-kloro-2-metüülfenool": {
+      "nimetus": "4-kloro-2-metüülfenool",
+      "uuendatud": "2026-06-01T06:46:27.164Z"
+    },
+    "5 g/l ohtlikku ainet bifenüül": {
+      "nimetus": "5 g/l ohtlikku ainet bifenüül",
+      "uuendatud": "2026-06-01T06:46:28.520Z"
+    },
+    "5-kloro-2-metüül-4-isotiasoliin-3-oon": {
+      "nimetus": "5-kloro-2-metüül-4-isotiasoliin-3-oon",
+      "uuendatud": "2026-06-01T06:46:29.198Z"
+    },
+    "5-kloro-2-metüül-4-isotiasoliin-3-ooni": {
+      "nimetus": "5-kloro-2-metüül-4-isotiasoliin-3-ooni",
+      "uuendatud": "2026-06-01T06:46:29.875Z"
+    },
+    "5-kloro-2-metüül-4-isotiasool-3-ooni \nja 2-metüül-2h-isotiasool-3-ooni segu": {
+      "nimetus": "5-kloro-2-metüül-4-isotiasool-3-ooni \nja 2-metüül-2h-isotiasool-3-ooni segu",
+      "uuendatud": "2026-06-01T06:46:30.553Z"
+    },
+    "6-tris(1-fenüületüül)polüoksüetüleenitud fosfaadid": {
+      "nimetus": "6-tris(1-fenüületüül)polüoksüetüleenitud fosfaadid",
+      "uuendatud": "2026-06-01T06:46:31.231Z"
+    },
+    "7-triaasa-1-asoniaadamanataan kloriidi ning 1": {
+      "nimetus": "7-triaasa-1-asoniaadamanataan kloriidi ning 1",
+      "uuendatud": "2026-06-01T06:46:31.909Z"
+    },
+    "<1% naftaleen": {
+      "nimetus": "<1% naftaleen",
+      "uuendatud": "2026-06-01T06:46:32.587Z"
+    },
+    "<1% naftaleeni": {
+      "nimetus": "<1% naftaleeni",
+      "uuendatud": "2026-06-01T06:46:33.266Z"
+    },
+    "<1% naftaleeni.": {
+      "nimetus": "<1% naftaleeni.",
+      "uuendatud": "2026-06-01T06:46:33.945Z"
+    },
+    "adipiinhape": {
+      "nimetus": "adipiinhape",
+      "uuendatud": "2026-06-01T06:46:34.623Z"
+    },
+    "alkoholetoksülaatfosfaatester": {
+      "nimetus": "alkoholetoksülaatfosfaatester",
+      "uuendatud": "2026-06-01T06:46:35.302Z"
+    },
+    "alkoholi etoksülaat": {
+      "nimetus": "alkoholi etoksülaat",
+      "uuendatud": "2026-06-01T06:46:35.981Z"
+    },
+    "alkoholid": {
+      "nimetus": "alkoholid",
+      "uuendatud": "2026-06-01T06:46:36.658Z"
+    },
+    "alküüldimetüülbetaiin": {
+      "nimetus": "alküüldimetüülbetaiin",
+      "uuendatud": "2026-06-01T06:46:37.336Z"
+    },
+    "alumiiniumfosfiid. ammooniumkarbamaat.": {
+      "nimetus": "alumiiniumfosfiid. ammooniumkarbamaat.",
+      "uuendatud": "2026-06-01T06:46:38.014Z"
+    },
+    "ammoniaak": {
+      "nimetus": "ammoniaak",
+      "uuendatud": "2026-06-01T06:46:38.692Z"
+    },
+    "ammonium salt of polyarylphenyl ether sulphate": {
+      "nimetus": "ammonium salt of polyarylphenyl ether sulphate",
+      "uuendatud": "2026-06-01T06:46:39.370Z"
+    },
+    "aromaatne": {
+      "nimetus": "aromaatne",
+      "uuendatud": "2026-06-01T06:46:40.048Z"
+    },
+    "aromaatsed (c9) süsivesinikud": {
+      "nimetus": "aromaatsed (c9) süsivesinikud",
+      "uuendatud": "2026-06-01T06:46:40.726Z"
+    },
+    "aromaatsed ained": {
+      "nimetus": "aromaatsed ained",
+      "uuendatud": "2026-06-01T06:46:41.404Z"
+    },
+    "aromaatsed c10 süsivesinikud": {
+      "nimetus": "aromaatsed c10 süsivesinikud",
+      "uuendatud": "2026-06-01T06:46:42.082Z"
+    },
+    "aromaatsed süsivesinikud": {
+      "nimetus": "aromaatsed süsivesinikud",
+      "uuendatud": "2026-06-01T06:46:42.761Z"
+    },
+    "aromaatsed süsivesinikud (lahustibensiin)": {
+      "nimetus": "aromaatsed süsivesinikud (lahustibensiin)",
+      "uuendatud": "2026-06-01T06:46:43.438Z"
+    },
+    "aromaatsed süsivesinikud ja isotridekanool-8-etoksülaat": {
+      "nimetus": "aromaatsed süsivesinikud ja isotridekanool-8-etoksülaat",
+      "uuendatud": "2026-06-01T06:46:44.116Z"
+    },
+    "aromaatsed ühendid": {
+      "nimetus": "aromaatsed ühendid",
+      "uuendatud": "2026-06-01T06:46:44.793Z"
+    },
+    "aromaatsete süsivesinike segu (c9)": {
+      "nimetus": "aromaatsete süsivesinike segu (c9)",
+      "uuendatud": "2026-06-01T06:46:45.471Z"
+    },
+    "asoksüstrobiin ja tebukonasool": {
+      "nimetus": "asoksüstrobiin ja tebukonasool",
+      "uuendatud": "2026-06-01T06:46:46.149Z"
+    },
+    "asoksüstrobiin. etoksüleeritud alkoholid c16-c18.": {
+      "nimetus": "asoksüstrobiin. etoksüleeritud alkoholid c16-c18.",
+      "uuendatud": "2026-06-01T06:46:46.828Z"
+    },
+    "atsetofenoon": {
+      "nimetus": "atsetofenoon",
+      "uuendatud": "2026-06-01T06:46:47.505Z"
+    },
+    "atsetofenoon.": {
+      "nimetus": "atsetofenoon.",
+      "uuendatud": "2026-06-01T06:46:48.183Z"
+    },
+    "benseensulfoonhape": {
+      "nimetus": "benseensulfoonhape",
+      "uuendatud": "2026-06-01T06:46:48.861Z"
+    },
+    "benseensulfoonhappe 4-c10-14-alküülderivaadid": {
+      "nimetus": "benseensulfoonhappe 4-c10-14-alküülderivaadid",
+      "uuendatud": "2026-06-01T06:46:49.540Z"
+    },
+    "benseensulfoonhappe c10-c13 alküülderivaatide kaltsiumsool": {
+      "nimetus": "benseensulfoonhappe c10-c13 alküülderivaatide kaltsiumsool",
+      "uuendatud": "2026-06-01T06:46:50.217Z"
+    },
+    "bensüülalkohol": {
+      "nimetus": "bensüülalkohol",
+      "uuendatud": "2026-06-01T06:46:50.895Z"
+    },
+    "bensüülatsetaat": {
+      "nimetus": "bensüülatsetaat",
+      "uuendatud": "2026-06-01T06:46:51.573Z"
+    },
+    "bentazone": {
+      "nimetus": "bentazone",
+      "uuendatud": "2026-06-01T06:46:52.252Z"
     }
   }
 }
