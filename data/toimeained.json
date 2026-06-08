@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-01T06:46:52.852Z",
-  "count": 260,
+  "updated": "2026-06-08T06:29:07.208Z",
+  "count": 300,
   "data": {
     "1": {
       "nimetus": "1",
@@ -1041,6 +1041,166 @@
     "bentazone": {
       "nimetus": "bentazone",
       "uuendatud": "2026-06-01T06:46:52.252Z"
+    },
+    "benzyl alcohol": {
+      "nimetus": "benzyl alcohol",
+      "uuendatud": "2026-06-08T06:28:39.361Z"
+    },
+    "bifenoks ja 1": {
+      "nimetus": "bifenoks ja 1",
+      "uuendatud": "2026-06-08T06:28:40.061Z"
+    },
+    "boskaliid. metkonasool": {
+      "nimetus": "boskaliid. metkonasool",
+      "uuendatud": "2026-06-08T06:28:40.759Z"
+    },
+    "bronopool (inn)": {
+      "nimetus": "bronopool (inn)",
+      "uuendatud": "2026-06-08T06:28:41.459Z"
+    },
+    "bronopool (inn): 1": {
+      "nimetus": "bronopool (inn): 1",
+      "uuendatud": "2026-06-08T06:28:42.159Z"
+    },
+    "butaan-1-ool": {
+      "nimetus": "butaan-1-ool",
+      "uuendatud": "2026-06-08T06:28:42.857Z"
+    },
+    "c10": {
+      "nimetus": "c10",
+      "uuendatud": "2026-06-08T06:28:43.556Z"
+    },
+    "c10-13-alküülderivaadid": {
+      "nimetus": "c10-13-alküülderivaadid",
+      "uuendatud": "2026-06-08T06:28:44.256Z"
+    },
+    "c10-c13": {
+      "nimetus": "c10-c13",
+      "uuendatud": "2026-06-08T06:28:44.954Z"
+    },
+    "c10-rikkad": {
+      "nimetus": "c10-rikkad",
+      "uuendatud": "2026-06-08T06:28:45.654Z"
+    },
+    "c11-14-iso-": {
+      "nimetus": "c11-14-iso-",
+      "uuendatud": "2026-06-08T06:28:46.352Z"
+    },
+    "c12-14": {
+      "nimetus": "c12-14",
+      "uuendatud": "2026-06-08T06:28:47.050Z"
+    },
+    "c12-15": {
+      "nimetus": "c12-15",
+      "uuendatud": "2026-06-08T06:28:47.749Z"
+    },
+    "c13-rikas": {
+      "nimetus": "c13-rikas",
+      "uuendatud": "2026-06-08T06:28:48.448Z"
+    },
+    "c13-rikkad": {
+      "nimetus": "c13-rikkad",
+      "uuendatud": "2026-06-08T06:28:49.146Z"
+    },
+    "c9": {
+      "nimetus": "c9",
+      "uuendatud": "2026-06-08T06:28:49.846Z"
+    },
+    "c9-11-iso-": {
+      "nimetus": "c9-11-iso-",
+      "uuendatud": "2026-06-08T06:28:50.544Z"
+    },
+    "cloquintocet-mexyl": {
+      "nimetus": "cloquintocet-mexyl",
+      "uuendatud": "2026-06-08T06:28:51.243Z"
+    },
+    "d-limoneen": {
+      "nimetus": "d-limoneen",
+      "uuendatud": "2026-06-08T06:28:51.941Z"
+    },
+    "dekaanhappe ja n": {
+      "nimetus": "dekaanhappe ja n",
+      "uuendatud": "2026-06-08T06:28:52.640Z"
+    },
+    "deltametriin. piperonüülbutoksiid. tetrapropüleenbenseensulfonaadi kaltsiumsool.\r\nlahustibensiin (kerge aromaatne).  2-metüülpropaan-1-ool": {
+      "nimetus": "deltametriin. piperonüülbutoksiid. tetrapropüleenbenseensulfonaadi kaltsiumsool.\r\nlahustibensiin (kerge aromaatne).  2-metüülpropaan-1-ool",
+      "uuendatud": "2026-06-08T06:28:53.340Z"
+    },
+    "dietüleenglükool": {
+      "nimetus": "dietüleenglükool",
+      "uuendatud": "2026-06-08T06:28:54.038Z"
+    },
+    "dikamba dimetüülamiinsool ja 4-kloro-2-metüülfenool.": {
+      "nimetus": "dikamba dimetüülamiinsool ja 4-kloro-2-metüülfenool.",
+      "uuendatud": "2026-06-08T06:28:54.735Z"
+    },
+    "dimeteenamiid": {
+      "nimetus": "dimeteenamiid",
+      "uuendatud": "2026-06-08T06:28:55.434Z"
+    },
+    "dimetenamiid-p": {
+      "nimetus": "dimetenamiid-p",
+      "uuendatud": "2026-06-08T06:28:56.134Z"
+    },
+    "dodetsüül-": {
+      "nimetus": "dodetsüül-",
+      "uuendatud": "2026-06-08T06:28:56.833Z"
+    },
+    "dodetsüülakrülaat": {
+      "nimetus": "dodetsüülakrülaat",
+      "uuendatud": "2026-06-08T06:28:57.531Z"
+    },
+    "e)-8": {
+      "nimetus": "e)-8",
+      "uuendatud": "2026-06-08T06:28:58.229Z"
+    },
+    "etefoon. polüoksüetüleentridetsüüleeterfosfaat.": {
+      "nimetus": "etefoon. polüoksüetüleentridetsüüleeterfosfaat.",
+      "uuendatud": "2026-06-08T06:28:58.928Z"
+    },
+    "etoksüleeritud alkoholid": {
+      "nimetus": "etoksüleeritud alkoholid",
+      "uuendatud": "2026-06-08T06:28:59.625Z"
+    },
+    "etoksüleeritud alkoholid (c16-c18)": {
+      "nimetus": "etoksüleeritud alkoholid (c16-c18)",
+      "uuendatud": "2026-06-08T06:29:00.324Z"
+    },
+    "etoksüleeritud alkoholid c16-c18": {
+      "nimetus": "etoksüleeritud alkoholid c16-c18",
+      "uuendatud": "2026-06-08T06:29:01.021Z"
+    },
+    "etoksüleeritud alkoholid c9-11": {
+      "nimetus": "etoksüleeritud alkoholid c9-11",
+      "uuendatud": "2026-06-08T06:29:01.720Z"
+    },
+    "etoksüleeritud c16-c18 alkoholid.": {
+      "nimetus": "etoksüleeritud c16-c18 alkoholid.",
+      "uuendatud": "2026-06-08T06:29:02.419Z"
+    },
+    "etoksüleeritud fenool-polüetüleenglükool fosforhappe ester": {
+      "nimetus": "etoksüleeritud fenool-polüetüleenglükool fosforhappe ester",
+      "uuendatud": "2026-06-08T06:29:03.117Z"
+    },
+    "etoksüleeritud isotridekanool": {
+      "nimetus": "etoksüleeritud isotridekanool",
+      "uuendatud": "2026-06-08T06:29:03.816Z"
+    },
+    "etoksüleeritud propoksülaatrasvalkohol (plokk kopolümeer)": {
+      "nimetus": "etoksüleeritud propoksülaatrasvalkohol (plokk kopolümeer)",
+      "uuendatud": "2026-06-08T06:29:04.513Z"
+    },
+    "etoksüleeritud rasvalkohol": {
+      "nimetus": "etoksüleeritud rasvalkohol",
+      "uuendatud": "2026-06-08T06:29:05.212Z"
+    },
+    "etoksüleeritud tristerüülfenool": {
+      "nimetus": "etoksüleeritud tristerüülfenool",
+      "uuendatud": "2026-06-08T06:29:05.911Z"
+    },
+    "etoksüülitud": {
+      "nimetus": "etoksüülitud",
+      "uuendatud": "2026-06-08T06:29:06.609Z"
     }
   }
 }
