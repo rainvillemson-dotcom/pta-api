@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-08T06:29:07.208Z",
-  "count": 300,
+  "updated": "2026-06-15T07:09:34.510Z",
+  "count": 340,
   "data": {
     "1": {
       "nimetus": "1",
@@ -1201,6 +1201,166 @@
     "etoksüülitud": {
       "nimetus": "etoksüülitud",
       "uuendatud": "2026-06-08T06:29:06.609Z"
+    },
+    "etoksüülitud (alküülalkoholetoksülaat)": {
+      "nimetus": "etoksüülitud (alküülalkoholetoksülaat)",
+      "uuendatud": "2026-06-15T07:09:06.180Z"
+    },
+    "etoksüülitud c16-c18 alkoholid.": {
+      "nimetus": "etoksüülitud c16-c18 alkoholid.",
+      "uuendatud": "2026-06-15T07:09:06.894Z"
+    },
+    "etoksüülitud rasvalkohol": {
+      "nimetus": "etoksüülitud rasvalkohol",
+      "uuendatud": "2026-06-15T07:09:07.606Z"
+    },
+    "etüleenglükool": {
+      "nimetus": "etüleenglükool",
+      "uuendatud": "2026-06-15T07:09:08.318Z"
+    },
+    "fenheksamiid.": {
+      "nimetus": "fenheksamiid.",
+      "uuendatud": "2026-06-15T07:09:09.030Z"
+    },
+    "fenoksaprop-p-etüül ning reaktsioonisegu: 5-kloro-2-metüül-4-isotiasoliin-3-oon [eü nr. 247-500-7] ja 2-metüül-4-isotiasoliin-3-oon [eü nr. 220-239-6] (3:1).": {
+      "nimetus": "fenoksaprop-p-etüül ning reaktsioonisegu: 5-kloro-2-metüül-4-isotiasoliin-3-oon [eü nr. 247-500-7] ja 2-metüül-4-isotiasoliin-3-oon [eü nr. 220-239-6] (3:1).",
+      "uuendatud": "2026-06-15T07:09:09.742Z"
+    },
+    "fluasifop-p-butüül": {
+      "nimetus": "fluasifop-p-butüül",
+      "uuendatud": "2026-06-15T07:09:10.454Z"
+    },
+    "fluazinam": {
+      "nimetus": "fluazinam",
+      "uuendatud": "2026-06-15T07:09:11.168Z"
+    },
+    "fludipüradifuroon": {
+      "nimetus": "fludipüradifuroon",
+      "uuendatud": "2026-06-15T07:09:11.880Z"
+    },
+    "fluksopüroksaad": {
+      "nimetus": "fluksopüroksaad",
+      "uuendatud": "2026-06-15T07:09:12.591Z"
+    },
+    "fluopikoliin": {
+      "nimetus": "fluopikoliin",
+      "uuendatud": "2026-06-15T07:09:13.301Z"
+    },
+    "fluopüraam ja tebukonasool.": {
+      "nimetus": "fluopüraam ja tebukonasool.",
+      "uuendatud": "2026-06-15T07:09:14.012Z"
+    },
+    "fluoroksüpür-meptüül": {
+      "nimetus": "fluoroksüpür-meptüül",
+      "uuendatud": "2026-06-15T07:09:14.723Z"
+    },
+    "fosforhape": {
+      "nimetus": "fosforhape",
+      "uuendatud": "2026-06-15T07:09:15.434Z"
+    },
+    "glüfosaat": {
+      "nimetus": "glüfosaat",
+      "uuendatud": "2026-06-15T07:09:16.145Z"
+    },
+    "hüdrogeenitud nafta destillaat": {
+      "nimetus": "hüdrogeenitud nafta destillaat",
+      "uuendatud": "2026-06-15T07:09:16.856Z"
+    },
+    "imasamoks": {
+      "nimetus": "imasamoks",
+      "uuendatud": "2026-06-15T07:09:17.566Z"
+    },
+    "isopropanool": {
+      "nimetus": "isopropanool",
+      "uuendatud": "2026-06-15T07:09:18.277Z"
+    },
+    "isopropüülamiin soolad": {
+      "nimetus": "isopropüülamiin soolad",
+      "uuendatud": "2026-06-15T07:09:18.988Z"
+    },
+    "isotridekanool": {
+      "nimetus": "isotridekanool",
+      "uuendatud": "2026-06-15T07:09:19.699Z"
+    },
+    "isotsüanaadid": {
+      "nimetus": "isotsüanaadid",
+      "uuendatud": "2026-06-15T07:09:20.409Z"
+    },
+    "kaltsium dodeküülbenseen sulfonaat": {
+      "nimetus": "kaltsium dodeküülbenseen sulfonaat",
+      "uuendatud": "2026-06-15T07:09:21.120Z"
+    },
+    "kaltsium kloriid": {
+      "nimetus": "kaltsium kloriid",
+      "uuendatud": "2026-06-15T07:09:21.831Z"
+    },
+    "kaltsium-dodetsüülbenseensulfonaat": {
+      "nimetus": "kaltsium-dodetsüülbenseensulfonaat",
+      "uuendatud": "2026-06-15T07:09:22.541Z"
+    },
+    "kaltsiumalküülbenseensulfonaat 2-etüülheksanoolis": {
+      "nimetus": "kaltsiumalküülbenseensulfonaat 2-etüülheksanoolis",
+      "uuendatud": "2026-06-15T07:09:23.252Z"
+    },
+    "kaltsiumdodeküülbenseensulfonaat": {
+      "nimetus": "kaltsiumdodeküülbenseensulfonaat",
+      "uuendatud": "2026-06-15T07:09:23.962Z"
+    },
+    "kaltsiumdodetsüülbenseensulfonaat": {
+      "nimetus": "kaltsiumdodetsüülbenseensulfonaat",
+      "uuendatud": "2026-06-15T07:09:24.672Z"
+    },
+    "kaltsiumi dodetsüülbenseensulfonaat": {
+      "nimetus": "kaltsiumi dodetsüülbenseensulfonaat",
+      "uuendatud": "2026-06-15T07:09:25.382Z"
+    },
+    "kaltsiumisool": {
+      "nimetus": "kaltsiumisool",
+      "uuendatud": "2026-06-15T07:09:26.094Z"
+    },
+    "kaltsiumisoolad": {
+      "nimetus": "kaltsiumisoolad",
+      "uuendatud": "2026-06-15T07:09:26.804Z"
+    },
+    "kaltsiumsoolad": {
+      "nimetus": "kaltsiumsoolad",
+      "uuendatud": "2026-06-15T07:09:27.514Z"
+    },
+    "kerge aromaatne": {
+      "nimetus": "kerge aromaatne",
+      "uuendatud": "2026-06-15T07:09:28.225Z"
+    },
+    "kerged aromaatsed süsivesinikud (lahustibensiin)": {
+      "nimetus": "kerged aromaatsed süsivesinikud (lahustibensiin)",
+      "uuendatud": "2026-06-15T07:09:28.935Z"
+    },
+    "kerged aromaatsed süsivesinikud (lahustibensiin).": {
+      "nimetus": "kerged aromaatsed süsivesinikud (lahustibensiin).",
+      "uuendatud": "2026-06-15T07:09:29.645Z"
+    },
+    "kerged aromaatsed ühendid": {
+      "nimetus": "kerged aromaatsed ühendid",
+      "uuendatud": "2026-06-15T07:09:30.358Z"
+    },
+    "kergelt aromaatne lahusti bensiin": {
+      "nimetus": "kergelt aromaatne lahusti bensiin",
+      "uuendatud": "2026-06-15T07:09:31.068Z"
+    },
+    "klokvintotseet-meksüül": {
+      "nimetus": "klokvintotseet-meksüül",
+      "uuendatud": "2026-06-15T07:09:31.778Z"
+    },
+    "klomasoon": {
+      "nimetus": "klomasoon",
+      "uuendatud": "2026-06-15T07:09:32.489Z"
+    },
+    "klopüraliid": {
+      "nimetus": "klopüraliid",
+      "uuendatud": "2026-06-15T07:09:33.199Z"
+    },
+    "klorantraniliprool": {
+      "nimetus": "klorantraniliprool",
+      "uuendatud": "2026-06-15T07:09:33.910Z"
     }
   }
 }
