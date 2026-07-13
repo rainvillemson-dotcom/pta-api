@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-06T06:19:52.135Z",
-  "count": 460,
+  "updated": "2026-07-13T05:27:35.458Z",
+  "count": 500,
   "data": {
     "1": {
       "nimetus": "1",
@@ -1841,6 +1841,166 @@
     "sisaldab biksafeeni": {
       "nimetus": "sisaldab biksafeeni",
       "uuendatud": "2026-07-06T06:19:51.536Z"
+    },
+    "sisaldab lahustina kuni 2": {
+      "nimetus": "sisaldab lahustina kuni 2",
+      "uuendatud": "2026-07-13T05:27:07.793Z"
+    },
+    "sisaldab metasakloori. võib esile kutsuda allergilise reaktsiooni.": {
+      "nimetus": "sisaldab metasakloori. võib esile kutsuda allergilise reaktsiooni.",
+      "uuendatud": "2026-07-13T05:27:08.487Z"
+    },
+    "sisaldab metasakloori. võib põhjustada allergilist reaktsiooni": {
+      "nimetus": "sisaldab metasakloori. võib põhjustada allergilist reaktsiooni",
+      "uuendatud": "2026-07-13T05:27:09.181Z"
+    },
+    "sisaldab n": {
+      "nimetus": "sisaldab n",
+      "uuendatud": "2026-07-13T05:27:09.876Z"
+    },
+    "sisaldab ohtlikke aineid asoksüstrobiin": {
+      "nimetus": "sisaldab ohtlikke aineid asoksüstrobiin",
+      "uuendatud": "2026-07-13T05:27:10.571Z"
+    },
+    "sisaldab ohtlikke aineid dimetakloor": {
+      "nimetus": "sisaldab ohtlikke aineid dimetakloor",
+      "uuendatud": "2026-07-13T05:27:11.265Z"
+    },
+    "sisaldab ohtlikke aineid dimetakloor ja lahustibensiin (nafta)": {
+      "nimetus": "sisaldab ohtlikke aineid dimetakloor ja lahustibensiin (nafta)",
+      "uuendatud": "2026-07-13T05:27:11.959Z"
+    },
+    "sisaldab ohtlikke aineid fenoksaprop-p-etüül": {
+      "nimetus": "sisaldab ohtlikke aineid fenoksaprop-p-etüül",
+      "uuendatud": "2026-07-13T05:27:12.654Z"
+    },
+    "sisaldab ohtlikke aineid metasakloor": {
+      "nimetus": "sisaldab ohtlikke aineid metasakloor",
+      "uuendatud": "2026-07-13T05:27:13.348Z"
+    },
+    "sisaldab ohtlikke aineid prosulfokarb ja lahustibensiin (nafta)": {
+      "nimetus": "sisaldab ohtlikke aineid prosulfokarb ja lahustibensiin (nafta)",
+      "uuendatud": "2026-07-13T05:27:14.042Z"
+    },
+    "sisaldab ohtlikke aineid protiokonasool ja n": {
+      "nimetus": "sisaldab ohtlikke aineid protiokonasool ja n",
+      "uuendatud": "2026-07-13T05:27:14.736Z"
+    },
+    "sisaldab ohtlikke aineid püraklostrobiin": {
+      "nimetus": "sisaldab ohtlikke aineid püraklostrobiin",
+      "uuendatud": "2026-07-13T05:27:15.430Z"
+    },
+    "sisaldab ohtlikke aineid tebukonasool": {
+      "nimetus": "sisaldab ohtlikke aineid tebukonasool",
+      "uuendatud": "2026-07-13T05:27:16.125Z"
+    },
+    "sisaldab ohtlikke aineid: 1": {
+      "nimetus": "sisaldab ohtlikke aineid: 1",
+      "uuendatud": "2026-07-13T05:27:16.819Z"
+    },
+    "sisaldab ohtlikke aineid: alumiiniumfosfiid ja ammooniumkarbamaat": {
+      "nimetus": "sisaldab ohtlikke aineid: alumiiniumfosfiid ja ammooniumkarbamaat",
+      "uuendatud": "2026-07-13T05:27:17.513Z"
+    },
+    "sisaldab ohtlikke aineid: amidosulfuroon": {
+      "nimetus": "sisaldab ohtlikke aineid: amidosulfuroon",
+      "uuendatud": "2026-07-13T05:27:18.207Z"
+    },
+    "sisaldab ohtlikke aineid: aromaatsed süsivesinikud (lakibensiin).": {
+      "nimetus": "sisaldab ohtlikke aineid: aromaatsed süsivesinikud (lakibensiin).",
+      "uuendatud": "2026-07-13T05:27:18.901Z"
+    },
+    "sisaldab ohtlikke aineid: aromaatsete süsivesinike segu": {
+      "nimetus": "sisaldab ohtlikke aineid: aromaatsete süsivesinike segu",
+      "uuendatud": "2026-07-13T05:27:19.596Z"
+    },
+    "sisaldab ohtlikke aineid: bensovindiflupüür": {
+      "nimetus": "sisaldab ohtlikke aineid: bensovindiflupüür",
+      "uuendatud": "2026-07-13T05:27:20.290Z"
+    },
+    "sisaldab ohtlikke aineid: biksafeen": {
+      "nimetus": "sisaldab ohtlikke aineid: biksafeen",
+      "uuendatud": "2026-07-13T05:27:20.984Z"
+    },
+    "sisaldab ohtlikke aineid: metkonasool": {
+      "nimetus": "sisaldab ohtlikke aineid: metkonasool",
+      "uuendatud": "2026-07-13T05:27:21.678Z"
+    },
+    "sisaldab ohtlikke aineid: protiokonasool": {
+      "nimetus": "sisaldab ohtlikke aineid: protiokonasool",
+      "uuendatud": "2026-07-13T05:27:22.372Z"
+    },
+    "sisaldab ohtlikke aineid: tsükloksüdiim": {
+      "nimetus": "sisaldab ohtlikke aineid: tsükloksüdiim",
+      "uuendatud": "2026-07-13T05:27:23.066Z"
+    },
+    "sisaldab ohtlikke koostisaineid: süsivesinikud": {
+      "nimetus": "sisaldab ohtlikke koostisaineid: süsivesinikud",
+      "uuendatud": "2026-07-13T05:27:23.760Z"
+    },
+    "sisaldab ohtlikku ainet dikamba": {
+      "nimetus": "sisaldab ohtlikku ainet dikamba",
+      "uuendatud": "2026-07-13T05:27:24.454Z"
+    },
+    "sisaldab ohtlikku ainet: deltametriin": {
+      "nimetus": "sisaldab ohtlikku ainet: deltametriin",
+      "uuendatud": "2026-07-13T05:27:25.147Z"
+    },
+    "sisaldab ohtlikku ainet: etefoon": {
+      "nimetus": "sisaldab ohtlikku ainet: etefoon",
+      "uuendatud": "2026-07-13T05:27:25.841Z"
+    },
+    "sisaldab ohtlikku ainet: magneesiumfosfiid": {
+      "nimetus": "sisaldab ohtlikku ainet: magneesiumfosfiid",
+      "uuendatud": "2026-07-13T05:27:26.534Z"
+    },
+    "sisaldab ohtliku ainet: kaptaan": {
+      "nimetus": "sisaldab ohtliku ainet: kaptaan",
+      "uuendatud": "2026-07-13T05:27:27.228Z"
+    },
+    "sisaldab ohtliku ainet: metasakloor": {
+      "nimetus": "sisaldab ohtliku ainet: metasakloor",
+      "uuendatud": "2026-07-13T05:27:27.921Z"
+    },
+    "sisaldab ohtliku ainet: metüültribenuroon": {
+      "nimetus": "sisaldab ohtliku ainet: metüültribenuroon",
+      "uuendatud": "2026-07-13T05:27:28.614Z"
+    },
+    "sisaldab phlebiopsis gigantea tüve vra 1835. mikrooganismid  võivad põhjustada ülitundlikkust": {
+      "nimetus": "sisaldab phlebiopsis gigantea tüve vra 1835. mikrooganismid  võivad põhjustada ülitundlikkust",
+      "uuendatud": "2026-07-13T05:27:29.307Z"
+    },
+    "sisaldab raudsulfaati": {
+      "nimetus": "sisaldab raudsulfaati",
+      "uuendatud": "2026-07-13T05:27:30.000Z"
+    },
+    "sisaldab streptomycs k61. mikroorganismid võivad põhjustada ülitundlikkust": {
+      "nimetus": "sisaldab streptomycs k61. mikroorganismid võivad põhjustada ülitundlikkust",
+      "uuendatud": "2026-07-13T05:27:30.694Z"
+    },
+    "sisaldub ohtlikke aineid: prokinasiid (cas-nr: 189278-12-4) ja kaltsium-dodetsüülbenseensulfonaat (cas-nr: 26264-06-2": {
+      "nimetus": "sisaldub ohtlikke aineid: prokinasiid (cas-nr: 189278-12-4) ja kaltsium-dodetsüülbenseensulfonaat (cas-nr: 26264-06-2",
+      "uuendatud": "2026-07-13T05:27:31.388Z"
+    },
+    "sotridekanool": {
+      "nimetus": "sotridekanool",
+      "uuendatud": "2026-07-13T05:27:32.082Z"
+    },
+    "spiroksamiin": {
+      "nimetus": "spiroksamiin",
+      "uuendatud": "2026-07-13T05:27:32.776Z"
+    },
+    "spiroxamine": {
+      "nimetus": "spiroxamine",
+      "uuendatud": "2026-07-13T05:27:33.470Z"
+    },
+    "sulfometüleeritud naatriumsool": {
+      "nimetus": "sulfometüleeritud naatriumsool",
+      "uuendatud": "2026-07-13T05:27:34.164Z"
+    },
+    "sulfoneeritud aromaatsed polümeerid": {
+      "nimetus": "sulfoneeritud aromaatsed polümeerid",
+      "uuendatud": "2026-07-13T05:27:34.858Z"
     }
   }
 }
